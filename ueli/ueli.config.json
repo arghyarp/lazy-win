@@ -1,0 +1,780 @@
+{
+  "appearanceOptions": {
+    "allowTransparentBackground": false,
+    "fontFamily": "Inter",
+    "maxSearchResultsPerPage": "8",
+    "searchResultHeight": 50,
+    "showDescriptionOnAllSearchResults": true,
+    "showSearchIcon": false,
+    "showSearchResultNumbers": false,
+    "smoothScrolling": true,
+    "userInputHeight": "40",
+    "windowWidth": "660",
+    "userInputBorderRadius": "",
+    "userInputFontSize": "20px",
+    "userInputFontWeight": "400",
+    "userInputBottomMargin": "",
+    "searchResultNameFontSize": "17px",
+    "searchResultNameFontWeight": "400",
+    "searchResultDescriptionFontSize": "15px",
+    "searchResultDescriptionFontWeight": "300",
+    "searchResultsBorderRadius": " ",
+    "scrollbarBorderRadius": "0px"
+  },
+  "applicationSearchOptions": {
+    "applicationFileExtensions": [
+      ".lnk",
+      ".appref-ms",
+      ".url",
+      ".exe"
+    ],
+    "applicationFolders": [
+      "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
+      "C:\\Users\\Arghya\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu",
+      "C:\\Users\\Arghya\\Desktop"
+    ],
+    "enabled": true,
+    "showFullFilePath": true,
+    "useNativeIcons": true
+  },
+  "browserBookmarksOptions": {
+    "browser": "Chromium",
+    "isEnabled": true
+  },
+  "calculatorOptions": {
+    "isEnabled": true,
+    "precision": 16
+  },
+  "colorConverterOptions": {
+    "hexEnabled": true,
+    "hslEnabled": true,
+    "isEnabled": true,
+    "rgbEnabled": true,
+    "rgbaEnabled": true,
+    "showColorPreview": true
+  },
+  "colorThemeOptions": {
+    "name": "Atom One Dark",
+    "userInputBackgroundColor": "#272e33",
+    "userInputTextColor": "#adb8b0",
+    "searchResultsBackgroundColor": "#272e33",
+    "searchResultsItemActiveBackgroundColor": "#9da9a0",
+    "searchResultsItemActiveDescriptionColor": "#1e2326",
+    "searchResultsItemActiveTextColor": "#272e33",
+    "searchResultsItemDescriptionTextColor": "#9da9a0",
+    "searchResultsItemNameTextcolor": "#9da9a0",
+    "scrollbarBackgroundColor": "#272e33",
+    "scrollbarForegroundColor": "#272e33"
+  },
+  "commandlineOptions": {
+    "isEnabled": true,
+    "prefix": ":",
+    "shell": "PowerShell Core"
+  },
+  "controlPanelOptions": {
+    "isEnabled": true
+  },
+  "currencyConverterOptions": {
+    "isEnabled": true,
+    "precision": 2,
+    "defaultTarget": "INR"
+  },
+  "dictionaryOptions": {
+    "debounceDelay": 250,
+    "isEnabled": true,
+    "minSearchTermLength": "3",
+    "prefix": "dict "
+  },
+  "emailOptions": {
+    "isEnabled": false
+  },
+  "everythingSearchOptions": {
+    "enabled": true,
+    "maxSearchResults": "50",
+    "pathToEs": "C:\\Program Files\\es\\es.exe",
+    "prefix": " "
+  },
+  "fileBrowserOptions": {
+    "blackList": [
+      "desktop.ini"
+    ],
+    "isEnabled": true,
+    "maxSearchResults": "10",
+    "showFullFilePath": true,
+    "showHiddenFiles": false
+  },
+  "generalOptions": {
+    "allowWindowMove": false,
+    "autostart": true,
+    "clearCachesOnExit": false,
+    "hideMainWindowAfterExecution": true,
+    "hideMainWindowOnBlur": true,
+    "hotKey": {
+      "key": "Space",
+      "modifier": "Alt",
+      "secondModifier": "-"
+    },
+    "language": "English",
+    "logExecution": true,
+    "persistentUserInput": true,
+    "rememberWindowPosition": false,
+    "rescanEnabled": false,
+    "rescanIntervalInSeconds": 300,
+    "showAlwaysOnPrimaryDisplay": true,
+    "showTrayIcon": false,
+    "decimalSeparator": "."
+  },
+  "mdfindOptions": {
+    "debounceDelay": 250,
+    "enabled": false,
+    "maxSearchResults": 24,
+    "prefix": "md?"
+  },
+  "operatingSystemCommandsOptions": {
+    "isEnabled": true
+  },
+  "operatingSystemSettingsOptions": {
+    "isEnabled": true
+  },
+  "searchEngineOptions": {
+    "blackList": [],
+    "fuzzyness": "0.5",
+    "maxSearchResults": "25"
+  },
+  "shortcutOptions": {
+    "isEnabled": true,
+    "shortcuts": [
+      {
+        "description": "",
+        "executionArgument": "wt C:/Program Files/Git/bin/bash.exe -i -l",
+        "icon": {
+          "parameter": "<svg width=\"32px\" height=\"32px\" viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\"><title>file_type_git</title><path d=\"M29.472,14.753,17.247,2.528a1.8,1.8,0,0,0-2.55,0L12.158,5.067l3.22,3.22a2.141,2.141,0,0,1,2.712,2.73l3.1,3.1a2.143,2.143,0,1,1-1.285,1.21l-2.895-2.895v7.617a2.141,2.141,0,1,1-1.764-.062V12.3a2.146,2.146,0,0,1-1.165-2.814L10.911,6.314,2.528,14.7a1.8,1.8,0,0,0,0,2.551L14.753,29.472a1.8,1.8,0,0,0,2.55,0L29.472,17.3a1.8,1.8,0,0,0,0-2.551\" style=\"fill:#dd4c35\"/><path d=\"M12.158,5.067l3.22,3.22a2.141,2.141,0,0,1,2.712,2.73l3.1,3.1a2.143,2.143,0,1,1-1.285,1.21l-2.895-2.895v7.617a2.141,2.141,0,1,1-1.764-.062V12.3a2.146,2.146,0,0,1-1.165-2.814L10.911,6.314\" style=\"fill:#fff\"/></svg>",
+          "type": "SVG"
+        },
+        "name": "bash",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "bash"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "C:\\Users\\Arghya\\Desktop\\Tor Browser\\Browser\\firefox.exe",
+        "icon": {
+          "parameter": "https://www.svgrepo.com/show/287560/earth.svg",
+          "type": "URL"
+        },
+        "name": "Tor browser",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "tor"
+        ],
+        "type": "File path"
+      },
+      {
+        "description": "",
+        "executionArgument": "\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" https://www.netflix.com",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Netflix",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "netflix"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "\"C:\\Users\\Arghya\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\brave.exe\" https://github.com/",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "GitHub",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "github"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" https://discord.com/channels/@me",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Discord",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "discord"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "\"C:\\Program Files\\Mozilla Firefox\\firefox.exe\" https://web.whatsapp.com",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Whatsapp",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "whats",
+          "waht",
+          "hwat",
+          "wht"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "https://mail.proton.me/u/0/inbox",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Proton Mail",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "pmail"
+        ],
+        "type": "URL"
+      },
+      {
+        "description": "",
+        "executionArgument": "https://mail.google.com/",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Gmail",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "gmail"
+        ],
+        "type": "URL"
+      },
+      {
+        "description": "",
+        "executionArgument": "https://calendar.google.com/",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Google Calendar",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "cal"
+        ],
+        "type": "URL"
+      },
+      {
+        "description": "",
+        "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\Chromium\\Application\\chrome.exe --incognito",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Ungoogled Chromium Incognito",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "incog"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "open twitch in twich container",
+        "executionArgument": "https://www.twitch.tv",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Twitch",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "twitch"
+        ],
+        "type": "URL"
+      },
+      {
+        "description": "",
+        "executionArgument": "spt",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Spotify Tui",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "spt"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application\\brave.exe --tor",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Brave TOR",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "tor"
+        ],
+        "type": "Commandline tool"
+      },
+      {
+        "description": "",
+        "executionArgument": "C:\\Users\\Arghya\\Desktop\\Mullvad Browser\\Browser\\mullvadbrowser.exe",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Mullvad Browser",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "mullvad"
+        ],
+        "type": "File path"
+      }
+    ]
+  },
+  "simpleFolderSearchOptions": {
+    "folders": [
+      {
+        "excludeHiddenFiles": true,
+        "folderPath": "C:\\Users\\Arghya",
+        "recursive": false
+      },
+      {
+        "excludeHiddenFiles": true,
+        "folderPath": "E:\\KING GAMES\\game setup",
+        "recursive": false
+      },
+      {
+        "excludeHiddenFiles": true,
+        "folderPath": "E:\\Personal",
+        "recursive": false
+      }
+    ],
+    "isEnabled": true,
+    "showFullFilePath": false
+  },
+  "translationOptions": {
+    "debounceDelay": 250,
+    "enabled": false,
+    "minSearchTermLength": 3,
+    "prefix": "translate ",
+    "sourceLanguage": "ja",
+    "targetLanguage": "en"
+  },
+  "urlOptions": {
+    "defaultProtocol": "https",
+    "isEnabled": true
+  },
+  "uwpSearchOptions": {
+    "isEnabled": true
+  },
+  "weatherOptions": {
+    "isEnabled": true,
+    "prefix": "wea ",
+    "temperatureUnit": "Celsius"
+  },
+  "websearchOptions": {
+    "isEnabled": true,
+    "webSearchEngines": [
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "",
+          "type": "color"
+        },
+        "isFallback": false,
+        "name": "DuckDuckGo",
+        "prefix": "dd ",
+        "priority": 1,
+        "url": "https://duckduckgo.com/?q={{query}}",
+        "suggestionUrl": ""
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\">\n                <g id=\"surface1\">\n                <path style=\" fill:#F44336;\" d=\"M 37 24 L 30.0625 24 C 26.714844 24 24 21.285156 24 17.9375 L 24 0.574219 C 24 0.355469 24.261719 0.238281 24.421875 0.390625 L 37 12 Z \"></path>\n                <path style=\" fill:#AD1457;\" d=\"M 37 24 L 30.0625 24 C 28.628906 24 27.308594 23.5 26.269531 22.667969 L 37 12 Z \"></path>\n                <path style=\" fill:#8BC34A;\" d=\"M 11 24 L 17.9375 24 C 21.285156 24 24 26.714844 24 30.0625 L 24 47.425781 C 24 47.644531 23.738281 47.757813 23.578125 47.609375 L 11 36 Z \"></path>\n                <path style=\" fill:#009688;\" d=\"M 11 24 L 17.9375 24 C 19.371094 24 20.691406 24.5 21.730469 25.332031 L 11 36 Z \"></path>\n                <path style=\" fill:#FFC107;\" d=\"M 24 11 L 24 17.9375 C 24 21.285156 21.285156 24 17.9375 24 L 0.574219 24 C 0.355469 24 0.238281 23.738281 0.390625 23.578125 L 12 11 Z \"></path>\n                <path style=\" fill:#FF9800;\" d=\"M 24 11 L 24 17.9375 C 24 19.371094 23.5 20.691406 22.667969 21.730469 L 12 11 Z \"></path>\n                <path style=\" fill:#448AFF;\" d=\"M 24 37 L 24 30.0625 C 24 26.714844 26.714844 24 30.0625 24 L 47.425781 24 C 47.644531 24 47.757813 24.261719 47.609375 24.421875 L 36 37 Z \"></path>\n                <path style=\" fill:#1565C0;\" d=\"M 24 37 L 24 30.0625 C 24 28.628906 24.5 27.308594 25.332031 26.269531 L 36 37 Z \"></path>\n                </g>\n                </svg>",
+          "type": "SVG"
+        },
+        "isFallback": false,
+        "name": "Google Images",
+        "prefix": "img ",
+        "priority": 3,
+        "url": "https://www.google.com/search?tbm=isch&q={{query}}",
+        "suggestionUrl": "https://www.google.com/complete/search?ds=i&output=firefox&q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 32 32\" version=\"1.1\">\n                <g id=\"surface1\">\n                <path d=\"M 30 9.214844 C 30 9.386719 29.863281 9.523438 29.6875 9.523438 L 28.007813 9.523438 L 20.390625 25.738281 C 20.339844 25.847656 20.230469 25.917969 20.113281 25.917969 C 20.109375 25.917969 20.109375 25.917969 20.109375 25.917969 C 19.988281 25.917969 19.882813 25.851563 19.828125 25.746094 L 16.214844 18.578125 L 12.3125 25.757813 C 12.257813 25.859375 12.15625 25.917969 12.03125 25.917969 C 11.914063 25.914063 11.808594 25.847656 11.757813 25.742188 L 4.054688 9.523438 L 2.3125 9.523438 C 2.140625 9.523438 2 9.386719 2 9.214844 L 2 8.390625 C 2 8.21875 2.140625 8.082031 2.3125 8.082031 L 8.523438 8.082031 C 8.695313 8.082031 8.835938 8.21875 8.835938 8.390625 L 8.835938 9.214844 C 8.835938 9.386719 8.695313 9.523438 8.523438 9.523438 L 7.1875 9.523438 L 12.503906 21.785156 L 15.269531 16.617188 L 11.761719 9.527344 L 10.917969 9.527344 C 10.746094 9.527344 10.605469 9.386719 10.605469 9.214844 L 10.605469 8.394531 C 10.605469 8.222656 10.746094 8.082031 10.917969 8.082031 L 15.515625 8.082031 C 15.6875 8.082031 15.824219 8.222656 15.824219 8.394531 L 15.824219 9.214844 C 15.824219 9.386719 15.6875 9.523438 15.515625 9.523438 L 14.703125 9.523438 L 16.722656 13.9375 L 19.125 9.523438 L 17.652344 9.523438 C 17.476563 9.523438 17.339844 9.386719 17.339844 9.214844 L 17.339844 8.394531 C 17.339844 8.222656 17.476563 8.082031 17.652344 8.082031 L 22.117188 8.082031 C 22.289063 8.082031 22.425781 8.222656 22.425781 8.394531 L 22.425781 9.214844 C 22.425781 9.386719 22.289063 9.523438 22.117188 9.523438 L 21.136719 9.523438 L 17.632813 15.894531 L 20.488281 21.769531 L 26 9.523438 L 24.253906 9.523438 C 24.082031 9.523438 23.941406 9.386719 23.941406 9.214844 L 23.941406 8.394531 C 23.941406 8.222656 24.082031 8.082031 24.253906 8.082031 L 29.6875 8.082031 C 29.863281 8.082031 30 8.222656 30 8.394531 Z \"></path>\n                </g>\n                </svg>",
+          "type": "SVG"
+        },
+        "isFallback": false,
+        "name": "Wikipedia",
+        "prefix": "wiki ",
+        "priority": 4,
+        "url": "https://en.wikipedia.org/wiki/{{query}}",
+        "suggestionUrl": "https://en.wikipedia.org/w/api.php?action=opensearch&search={{query}}"
+      },
+      {
+        "encodeSearchTerm": false,
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\">\n                <g id=\"surface1\">\n                <path style=\" fill:#FF3D00;\" d=\"M 43.199219 33.898438 C 42.800781 36 41.101563 37.601563 39 37.898438 C 35.699219 38.398438 30.199219 39 24 39 C 17.898438 39 12.398438 38.398438 9 37.898438 C 6.898438 37.601563 5.199219 36 4.800781 33.898438 C 4.398438 31.601563 4 28.199219 4 24 C 4 19.800781 4.398438 16.398438 4.800781 14.101563 C 5.199219 12 6.898438 10.398438 9 10.101563 C 12.300781 9.601563 17.800781 9 24 9 C 30.199219 9 35.601563 9.601563 39 10.101563 C 41.101563 10.398438 42.800781 12 43.199219 14.101563 C 43.601563 16.398438 44.101563 19.800781 44.101563 24 C 44 28.199219 43.601563 31.601563 43.199219 33.898438 Z \"></path>\n                <path style=\" fill:#FFFFFF;\" d=\"M 20 31 L 20 17 L 32 24 Z \"></path>\n                </g>\n                </svg>",
+          "type": "SVG"
+        },
+        "isFallback": false,
+        "name": "YouTube",
+        "prefix": "yt ",
+        "priority": 5,
+        "url": "https://www.youtube.com/results?search_query={{query}}",
+        "suggestionUrl": ""
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "<svg width=\"2770px\" height=\"2770px\" viewBox=\"0 0 2770 2770\" xmlns=\"http://www.w3.org/2000/svg\"><linearGradient id=\"a\" y1=\"51%\" y2=\"51%\"><stop offset=\".4\" stop-color=\"#f50\"/><stop offset=\".6\" stop-color=\"#ff2000\"/></linearGradient><linearGradient id=\"b\" x1=\"2%\" y1=\"51%\" y2=\"51%\"><stop offset=\"0\" stop-color=\"#ff452a\"/><stop offset=\"1\" stop-color=\"#ff2000\"/></linearGradient><path fill=\"url(#a)\" d=\"M2395 723l60-147-170-176c-92-92-288-38-288-38l-222-252H992L769 363s-196-53-288 37L311 575l60 147-75 218 250 953c52 204 87 283 234 387l457 310c44 27 98 74 147 74s103-47 147-74l457-310c147-104 182-183 234-387l250-953z\"/><path fill=\"#fff\" d=\"M1935 524s287 347 287 420c0 75-36 94-72 133l-215 230c-20 20-63 54-38 113 25 60 60 134 20 210-40 77-110 128-155 120a820 820 0 01-190-90c-38-25-160-126-160-165s126-110 150-124c23-16 130-78 132-102s2-30-30-90-88-140-80-192c10-52 100-80 167-105l207-78c16-8 12-15-36-20-48-4-183-22-244-5s-163 43-173 57c-8 14-16 14-7 62l58 315c4 40 12 67-30 77-44 10-117 27-142 27s-99-17-142-27-35-37-30-77c4-40 48-268 57-315 10-48 1-48-7-62-10-14-113-40-174-57-60-17-196 1-244 6-48 4-52 10-36 20l207 77c66 25 158 53 167 105 10 53-47 132-80 192s-32 66-30 90 110 86 132 102c24 15 150 85 150 124s-119 140-159 165a820 820 0 01-190 90c-45 8-115-43-156-120-40-76-4-150 20-210 25-60-17-92-38-113l-215-230c-35-37-71-57-71-131s287-420 287-420l273 44c32 0 103-27 168-50 65-20 110-22 110-22s44 0 110 22 136 50 168 50c33 0 275-47 275-47zm-215 1328c18 10 7 32-10 44l-254 198c-20 20-52 50-73 50s-52-30-73-50a13200 13200 0 00-255-198c-16-12-27-33-10-44l150-80a870 870 0 01188-73c15 0 110 34 187 73l150 80z\"/><path fill=\"url(#b)\" d=\"M1999 363l-224-253H992L769 363s-196-53-288 37c0 0 260-23 350 123l276 47c32 0 103-27 168-50 65-20 110-22 110-22s44 0 110 22 136 50 168 50c33 0 275-47 275-47 90-146 350-123 350-123-92-92-288-38-288-38\"/></svg>",
+          "type": "SVG"
+        },
+        "isFallback": false,
+        "name": "Brave",
+        "prefix": "v ",
+        "priority": 0,
+        "url": "https://search.brave.com/search?q={{query}}",
+        "suggestionUrl": ""
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path fill=\"#FE7A15\" fill-rule=\"evenodd\" d=\"M11.4137208,0.131625 C11.7902208,-0.043875 12.2252208,-0.043875 12.6017208,0.131625 L23.4227208,5.187375 C23.7467208,5.338875 23.7459708,5.800875 23.4204708,5.950875 L12.5154708,10.968375 C12.1929708,11.116875 11.8217208,11.116875 11.4992208,10.968375 L0.594970771,5.950875 C0.269470771,5.800875 0.267970771,5.338875 0.592720771,5.187375 L11.4137208,0.131625 Z M23.4227208,11.6582856 C23.7474708,11.8097856 23.7459708,12.2717856 23.4204708,12.4217856 L12.5162208,17.4392856 C12.1937208,17.5877856 11.8224708,17.5877856 11.4999708,17.4392856 L0.594970771,12.4217856 C0.269470771,12.2717856 0.267970771,11.8097856 0.592720771,11.6582856 L2.82772077,10.6142856 C3.15172077,10.4627856 3.52597077,10.4620356 3.85072077,10.6112856 L11.4999708,14.1302856 C11.8224708,14.2787856 12.1937208,14.2787856 12.5162208,14.1302856 L20.1647208,10.6112856 C20.4894708,10.4620356 20.8637208,10.4627856 21.1877208,10.6142856 L23.4227208,11.6582856 Z M23.4227208,18.1582856 C23.7474708,18.3097856 23.7459708,18.7717856 23.4204708,18.9217856 L12.5162208,23.9392856 C12.1937208,24.0877856 11.8224708,24.0877856 11.4999708,23.9392856 L0.594970771,18.9217856 C0.269470771,18.7717856 0.267970771,18.3097856 0.592720771,18.1582856 L2.82772077,17.1142856 C3.15172077,16.9627856 3.52597077,16.9620356 3.85072077,17.1112856 L11.4999708,20.6302856 C11.8224708,20.7787856 12.1937208,20.7787856 12.5162208,20.6302856 L20.1647208,17.1112856 C20.4894708,16.9620356 20.8637208,16.9627856 21.1877208,17.1142856 L23.4227208,18.1582856 Z\"/>\n</svg>\n",
+          "type": "SVG"
+        },
+        "isFallback": false,
+        "name": "stack overflow",
+        "prefix": "?sof ",
+        "priority": 0,
+        "url": "https://stackoverflow.com/search?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.merriam-webster.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "merriam webster",
+        "prefix": "dm ",
+        "priority": 0,
+        "url": "https://www.merriam-webster.com/dictionary/{{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://dictionary.cambridge.org/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "cambridge dictionary",
+        "prefix": "dc ",
+        "priority": 0,
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/{{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://scholar.google.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "google scholar ",
+        "prefix": "sc ",
+        "priority": 0,
+        "url": "https://scholar.google.com/scholar?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "",
+          "type": "color"
+        },
+        "isFallback": false,
+        "name": "startpage",
+        "prefix": "g ",
+        "priority": 0,
+        "url": "https://www.startpage.com/do/dsearch?query={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://myanimelist.net/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "MyAnimeList",
+        "prefix": "mal ",
+        "priority": 0,
+        "url": "https://myanimelist.net/search/all?q={{query}}",
+        "suggestionUrl": ""
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://winget.run/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Winget",
+        "prefix": "winget ",
+        "priority": 0,
+        "url": "https://winget.run/search?query={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://old.reddit.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Old Reddit",
+        "prefix": "r ",
+        "priority": 0,
+        "url": "https://old.reddit.com/search?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.rottentomatoes.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Rotten tomatoes",
+        "prefix": "?rt",
+        "priority": 0,
+        "url": "https://www.rottentomatoes.com/search?search={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.imdb.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Imdb",
+        "prefix": "imdb ",
+        "priority": 0,
+        "url": "https://www.imdb.com/find/?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://kayoanime.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Kayoanime",
+        "prefix": "?kayo ",
+        "priority": 0,
+        "url": "https://kayoanime.com/?s={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.amazon.in/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Amazon IN",
+        "prefix": "?amazon ",
+        "priority": 0,
+        "url": "https://www.amazon.in/s?k={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.goodreads.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Goodreads",
+        "prefix": "?greads ",
+        "priority": 0,
+        "url": "https://www.goodreads.com/search?utf8=%E2%9C%93&query={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://searx.be/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Belgium searx",
+        "prefix": "e ",
+        "priority": 0,
+        "url": "https://searx.be/?preferences=eJx1WMuu4zgO_ZrJxqhgpruBwSyyGmC23UBVrw3aom2WJVGlRxLfrx_Kj1iO713coHQoURQfh3S1ELFnTxhuPVr0oC8abJ-gxxvab39_v2huQefFBVLklo3TGPGmUjvmv54vZGR37Tw_p9sPn_BiMA6sbn_9-f3HJUCHAcG3w-2flzigwVugrOPiMSQdQ822tvioIzS3_4EOeFFMtQhZ39HfGGR5Zd9fOLTgv4U4iTWae2pZ4f2yKKsXWIEfLy3aiL4GTb018u_FJlB3sC2qejVmuepXQj_VZOtIUc7PO8l2ZCmKztaz1gu4nMq2tovHJlGksV21DxxHnMJNYQfyqIuiAI2W29D2ZMW5_-mhr-vALYGuDCqCf_z2X7AWQpUV0x3ruiONIcNurAx5z77E5JWV_FYhsi83W2jZKqhrinnpI7Xy7xySWeyfdJeLW0J5vQANacp_dX0nhRxmyIpta_jXdbVoKDTN6HLmcDY2kgUY1_sb1xxURUV9v1vbtu23eC_Os0MrYQ5Y3CRuD8FjV5ot2EPdSfKk0D6he1uezc6gpJdA-TdrSl4TlucE8XLNdDAcBjtwV0IK8UPyqjYpUDuv7wQ2iseL65TqK0mCnEDENhzOvyrmbGUhO7m4kB0esqSEASeQ_AoSJdWmw9P-9Swu6ZRnUnswOk3t6MsNHrEK3MUHeKwUecnvnOlLaDtPdiQos6uXqoFmled6bND367Jn7sW-03NWPLQDa_BljFeJ0zDlTA-7paXEsKRBqdBIQfpcVsIItnRq71ipMmIDNB7yz2riAJK5fnHqDJDpU-kQslBcJIXjwU9Vdm-gwryPb6toh7a93FViVS90VlqmpZbuUAZKcxMiXv1mCXzoyVMbduOFVKF1YNcN5mEaXWqwzqwiOwHslrCaAuJbyXl0XDzAiSOgp7BVsaNMoRjKzHbkhM92Nc6vvF4a8QLPKb6LtpT47Nghw11qrlJlm1GpMdmCPWF-PaT-Sj0zcL56gU-ZGNARbG8o0AzkZK7yzyv5wUAO6gYENKKU2s8SOWRScLkpFrZFHieOHAYecxA310ubIyVVJgwUi4jEbLqohnTQUaCrj5INUhZhKCkPBuYDMXKKqSlz4IW8yAxIT4YzaRXb7mSQi_WDmgNLymDwBKuk-kr0QSM1zGN4B38ljvgOBk6-PaMO27nMv4B3Z2c4dxCK0_vuO09vQciojDBGiOJ6SpMH6yXMbji8R1EbP9geifX33__9LKKIHxZMucHwT8TxUKBwz2S0Az41U49mK3mH6N_CNA8KMjSNufM9sCkjCMeGldfnzPdJWAIP2Y2jP1bZAp2OLvC5aO59Jo_SbaD1IG-zJSZ-NtIEDy3Vwx1PwDkMC3y6WIpvp8claYYU92Zz4JOxv_a8cccF7XEYm5lGODg9q2zoNrpIJrdg3F4UWehyCE7T0XGiGLAbOZMIS6z8PBoIBcTcIl4I51ZTDWnrligDTW7G24Z8l4IIn08MX8wRD8zZ4XctKGm3mfzCohS2lefijnXTVNwtuikVrUbWMTt0cS3F3eqlEZfWrK35FMUVPzhqWE-vvVY1uwlkJdDEqYx4gW2W_SThz_2UFPMIoaBNjcZMVa7wlCewmSmOM_eyIwX0X8mkM8avZFnzQtRvYgMylyu2X2h-iQehamHxT3aoV2enZ6s5qaL1gwxeuE0tuX-DzGY5WwLGAxluMumVMtzBOoMe5SHKmBdlYtzGRqcy6eybnHzN5DawSnM-XWdTdosceZm6GigmHhm2WnklWYXPPUJuclt9LV34kBAeJL5VI6UQyjlN3qYonlzkOcacmTLwMRa1JWQglXt0mdRfO7IQbqf5sc1UYUxNsjFtGZiHHCtj1fIB9lkjTw59Ci_Xx0POzn32-KBcxe9ADsI8G27nzGSkTmU4jB5s0OLIohZVUplJX3vztOtIcyyogr2yNJbAk0a2wndVmCxb0V9456e7ukehUko7djlM_uThR4z-SsXeKRmjC9MXbj68sIl_bB94-2ev00moNtzyMPW8rqurfDF38rHd8Tpm7RIZgGqh0XZ8cfXnGnL5rKKTjkHqVpow1pL-Gpb4HTYw1Mt_LTy8fN6fbfDz50At34eyx-TkucjQJgVz-z-9WnpK&q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://docs.oracle.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Oracle",
+        "prefix": "jd ",
+        "priority": 0,
+        "url": "https://docs.oracle.com/en/java/javase/20/docs/api/search.html?q={{query}}",
+        "suggestionUrl": ""
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.phind.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Phind",
+        "prefix": "f ",
+        "priority": 0,
+        "url": "https://www.phind.com/search?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://whoogle.no-logs.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "whoogle no logs",
+        "prefix": "w ",
+        "priority": 0,
+        "url": "https://whoogle.no-logs.com/search?={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.google.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Google",
+        "prefix": "gg ",
+        "priority": 0,
+        "url": "https://www.google.com/search?q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.metacritic.com/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Metacritic",
+        "prefix": "meta ",
+        "priority": 0,
+        "url": "https://www.metacritic.com/search/{{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://paulgo.io/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "PaulGo",
+        "prefix": "p ",
+        "priority": 0,
+        "url": "https://paulgo.io/?preferences=eJx1WMmO4zYQ_Zr4IoyRDQhy8ClArgkwk7NQIktSjUiWhott9denqMWiWt2HFsxHsvaNrSBix54w3Dp06MFcDLguQYc3dF_--3oxrMDkxQVSZMV2NBjxppMa8l_HF7Jyuh49P6fbN5_wYjH2rG___vP12yVAiwHBq_728yX2aPEWKNO4eAzJxFCzqx0-6gjN7W8wAS-aqZZNNnf0NwZZXtl3l-VaHeIk4mjww0Whi-hrMNQ5K78X7qDv4BTqemW7EP2R0E81uTpSlPvzSXItOYpCU3k2ZgGXW1kqtdhmEkIG1Uq95zjgFG4aWxDxL5oCNEa4oevIiRn_7KCr68CKwFQWNcFPv_4FzkGoMmG6Y123ZDBkeBwqS96zLzHRspJvFSL78rADxU5DXVPMSx9Jye9s_LzdkBO-qxPXdbXsHk7FRryGcaXSjM3hUtTUdTtPpdSXeK_rO2nkDPCITtwSsKApxgvBYytaK0Ix_YI99J3ErwX1Ccd3y7OAGZRwECh_M6XkDWF5TxAvbKaD4NC7ntsS0ohvEh21TYHUvA4RIgllljj0M3IncFEsWQigdVeJc3NgELtQUkRRinRx_5UDZz2KvcV4hRGLvYOqBf5AyEx2XktYWBjluHyzNJa_05gDbD8VJQSng7F-eRZCtYbU4EvAI1aB2_gAj5UmL3GeI34JjtaTGwjKKGunqTCAsKEUdhPLOjKvtztJNGjWhWKNDfpu22PuRJ2TZVZ8NDDlFAh7JJY7liWyymtWMtXnfCM1u-wlbjey1mUQ9NB4yJ9VkB4kGfzihRkgq5tdQbJdKu1FDgq25OQncQofYxvP7xR63mkaEhH8VGUfBSpU3Da4rUSNTkpgqYqRfL5D6VrDTYh49Zvo8GYmT6rgLIUY1AhuPWAftjElBTfadctNALskrKeA-C7tQaJjTI2EEKyZsad73pddLrQZxbLQUdgqzUi5WGMoc230a28ohXqB56Tat7bI-ejaIadE4qvk-SrEj4fke3lrBo43FujEe4FPEes5xhz1EoKMRW1ZZMlhX-XPK6PAQvbzBgS0QpZUFVTPBnxp1JAr05h7ayFw5GHiyBJRQ_brZu2YpRQakA6HC3TVLh7iO7kgGRX6sgBDn1O4KNMZOJroTha5MMKDmkM1loHhCU57OsTrgwZqmIfwHvyROOJ7MHDy6oyOqObc_wTerZfh3KkoTu9P33l6Z9WMymhjJayvJ88_2Cx-G_uDPppUfGN3LLe__fbHc3eLThpdGRRvDmx5Xmo44nBEpLiNZDju9xzccxHbD_nUTB3aLfNHRB9TU2bsPHnI9SE34Qc2xdYEx96Z1-d490mKRUnxwU8a2Ek2VWFy7CaLpWY4-GOQLNCJ7gKf8ih8H6_jo7TVvcsVpfQDGNOLJVyJieOs9OqDPslaM-2UpKreD06agbOfF_gk2QIfVJMM3svuEqh9intvO9Slobt2vNWgi9TRw7g4Vyyp7elZZV1ew92T7mU0N5JOCuy41_Z8eu3-5dAnoslfKX6eAw_Sz8hJTdVjO3Auxa_xhnNvrPq0NfHMUkM8JsFrZjlMSnGSXBK1ihBptec8Pb06OsWd9NLeSxJrwz95acUPGq3YBzW0X-nOTCTHBwhlx0Vrpyonfsrj3lxAjoP7ciIF9J_tSdOLn-1lytIczttvX9Zmv8tiQeZ9ze4TZq_tXsq11PUPTuhXn6enMpx0MQiADHK4DT1bN8--DBhPnTxEGQujTJnbqDnqXFv2Q6O8guSBtO3mOCwiaV5fZ9a7BCN5GdIaKDSW2UyJVuQ0PvcwkYZtM7mC2zRueeFBZquqkTk8lFOdqKIpniwSpI7CNmDslYaT5NLRPtJq1cBSZFvDjy0Hw5Ca5GLaJsM8vziZqJZX3EcNO43oU3jZWZ6wpGWe9ksMbHpPnN4V6xfyeqsAGcmgPGcd2uxAh7gXIB-Z42izn5W6bGWGr6IHF4wYvRjYH-y1o6F4MDDHNnvAn6z3iNFfqajITfx9exruz97RJClk4ZbN_Lyuq2svSSGdDuUdL_PFYpzDAbFKLRVHDa-C-AmhPJwsixMNhnr5V8HDyyP-tC2v9lYe_C2fmft56q_lZSm3bfb7ReYqCfzb_94IcbU=&q={{query}}"
+      }
+    ]
+  },
+  "workflowOptions": {
+    "isEnabled": true,
+    "workflows": [
+      {
+        "description": "",
+        "executionSteps": [
+          {
+            "executionArgument": "C:\\Users\\Arghya\\Desktop\\geni\\gnirehtet-run.cmd",
+            "executionArgumentType": "File Path"
+          }
+        ],
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\"><g id=\"surface1\"><path style=\" fill:#00BCD4;\" d=\"M 7 31 L 17 31 L 17 41 L 7 41 Z \"></path><path style=\" fill:#00BCD4;\" d=\"M 35.300781 19.300781 L 29.699219 13.699219 C 29.300781 13.300781 29.300781 12.699219 29.699219 12.300781 L 35.300781 6.699219 C 35.699219 6.300781 36.300781 6.300781 36.699219 6.699219 L 42.300781 12.300781 C 42.699219 12.699219 42.699219 13.300781 42.300781 13.699219 L 36.699219 19.300781 C 36.300781 19.699219 35.699219 19.699219 35.300781 19.300781 Z \"></path><path style=\" fill:#3F51B5;\" d=\"M 18 13 C 18 16.3125 15.3125 19 12 19 C 8.6875 19 6 16.3125 6 13 C 6 9.6875 8.6875 7 12 7 C 15.3125 7 18 9.6875 18 13 Z \"></path><path style=\" fill:#448AFF;\" d=\"M 42 36 C 42 39.3125 39.3125 42 36 42 C 32.6875 42 30 39.3125 30 36 C 30 32.6875 32.6875 30 36 30 C 39.3125 30 42 32.6875 42 36 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 11 24 L 13 24 L 13 29 L 11 29 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 12 21 L 9 25 L 15 25 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 20 12 L 25 12 L 25 14 L 20 14 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 28 13 L 24 10 L 24 16 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 35 21 L 37 21 L 37 26 L 35 26 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 36 29 L 39 25 L 33 25 Z \"></path></g></svg>",
+          "type": "SVG"
+        },
+        "name": "reverse tethering ",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "reverse"
+        ]
+      },
+      {
+        "description": "Opens necessary set of applications for dsa practice",
+        "executionSteps": [
+          {
+            "executionArgument": "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2023.1.2\\bin\\idea64.exe",
+            "executionArgumentType": "File Path"
+          },
+          {
+            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\BraveSoftware\\Brave-Browser-Beta\\Application\\brave.exe",
+            "executionArgumentType": "File Path"
+          },
+          {
+            "executionArgument": "https://excalidraw.com/",
+            "executionArgumentType": "URL"
+          }
+        ],
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\"><g id=\"surface1\"><path style=\" fill:#00BCD4;\" d=\"M 7 31 L 17 31 L 17 41 L 7 41 Z \"></path><path style=\" fill:#00BCD4;\" d=\"M 35.300781 19.300781 L 29.699219 13.699219 C 29.300781 13.300781 29.300781 12.699219 29.699219 12.300781 L 35.300781 6.699219 C 35.699219 6.300781 36.300781 6.300781 36.699219 6.699219 L 42.300781 12.300781 C 42.699219 12.699219 42.699219 13.300781 42.300781 13.699219 L 36.699219 19.300781 C 36.300781 19.699219 35.699219 19.699219 35.300781 19.300781 Z \"></path><path style=\" fill:#3F51B5;\" d=\"M 18 13 C 18 16.3125 15.3125 19 12 19 C 8.6875 19 6 16.3125 6 13 C 6 9.6875 8.6875 7 12 7 C 15.3125 7 18 9.6875 18 13 Z \"></path><path style=\" fill:#448AFF;\" d=\"M 42 36 C 42 39.3125 39.3125 42 36 42 C 32.6875 42 30 39.3125 30 36 C 30 32.6875 32.6875 30 36 30 C 39.3125 30 42 32.6875 42 36 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 11 24 L 13 24 L 13 29 L 11 29 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 12 21 L 9 25 L 15 25 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 20 12 L 25 12 L 25 14 L 20 14 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 28 13 L 24 10 L 24 16 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 35 21 L 37 21 L 37 26 L 35 26 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 36 29 L 39 25 L 33 25 Z \"></path></g></svg>",
+          "type": "SVG"
+        },
+        "name": "Dsa",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "dsa"
+        ]
+      },
+      {
+        "description": "",
+        "executionSteps": [
+          {
+            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+            "executionArgumentType": "File Path"
+          },
+          {
+            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\Thorium\\Application\\thorium.exe",
+            "executionArgumentType": "File Path"
+          },
+          {
+            "executionArgument": "E:\\Personal\\study\\js jonas",
+            "executionArgumentType": "File Path"
+          }
+        ],
+        "icon": {
+          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\"><g id=\"surface1\"><path style=\" fill:#00BCD4;\" d=\"M 7 31 L 17 31 L 17 41 L 7 41 Z \"></path><path style=\" fill:#00BCD4;\" d=\"M 35.300781 19.300781 L 29.699219 13.699219 C 29.300781 13.300781 29.300781 12.699219 29.699219 12.300781 L 35.300781 6.699219 C 35.699219 6.300781 36.300781 6.300781 36.699219 6.699219 L 42.300781 12.300781 C 42.699219 12.699219 42.699219 13.300781 42.300781 13.699219 L 36.699219 19.300781 C 36.300781 19.699219 35.699219 19.699219 35.300781 19.300781 Z \"></path><path style=\" fill:#3F51B5;\" d=\"M 18 13 C 18 16.3125 15.3125 19 12 19 C 8.6875 19 6 16.3125 6 13 C 6 9.6875 8.6875 7 12 7 C 15.3125 7 18 9.6875 18 13 Z \"></path><path style=\" fill:#448AFF;\" d=\"M 42 36 C 42 39.3125 39.3125 42 36 42 C 32.6875 42 30 39.3125 30 36 C 30 32.6875 32.6875 30 36 30 C 39.3125 30 42 32.6875 42 36 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 11 24 L 13 24 L 13 29 L 11 29 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 12 21 L 9 25 L 15 25 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 20 12 L 25 12 L 25 14 L 20 14 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 28 13 L 24 10 L 24 16 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 35 21 L 37 21 L 37 26 L 35 26 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 36 29 L 39 25 L 33 25 Z \"></path></g></svg>",
+          "type": "SVG"
+        },
+        "name": "Javascript",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "js"
+        ]
+      }
+    ]
+  },
+  "loremIpsumOptions": {
+    "isEnabled": true,
+    "prefix": "lipsum "
+  }
+}
