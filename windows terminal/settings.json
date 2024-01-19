@@ -1,26 +1,22 @@
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
-    [
+    "actions": [
         {
-            "command": 
-            {
+            "command": {
                 "action": "newTab"
             },
             "keys": "ctrl+t"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 0
             },
             "keys": "alt+1"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 4
             },
@@ -75,39 +71,34 @@
             "keys": "win+sc(41)"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 1
             },
             "keys": "alt+2"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "quakeMode"
             },
             "keys": "alt+t"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 2
             },
             "keys": "alt+3"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 3
             },
             "keys": "alt+4"
         },
         {
-            "command": 
-            {
+            "command": {
                 "action": "switchToTab",
                 "index": 5
             },
@@ -122,20 +113,16 @@
     "disableAnimations": true,
     "initialPosition": ",",
     "launchMode": "maximized",
-    "newTabMenu": 
-    [
+    "newTabMenu": [
         {
             "type": "remainingProfiles"
         }
     ],
-    "profiles": 
-    {
-        "defaults": 
-        {
+    "profiles": {
+        "defaults": {
             "colorScheme": "GruvboxMaterialHardDark",
             "experimental.retroTerminalEffect": false,
-            "font": 
-            {
+            "font": {
                 "face": "FiraCode Nerd Font",
                 "size": 13.0,
                 "weight": "normal"
@@ -145,8 +132,7 @@
             "scrollbarState": "visible",
             "useAcrylic": false
         },
-        "list": 
-        [
+        "list": [
             {
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
@@ -161,8 +147,7 @@
                 "colorScheme": "Everforest",
                 "commandline": "\"C:\\Program Files\\PowerShell\\7\\pwsh.exe\"",
                 "cursorShape": "bar",
-                "font": 
-                {
+                "font": {
                     "cellHeight": "1.2",
                     "size": 14.0
                 },
@@ -187,8 +172,7 @@
             }
         ]
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#0C0C0C",
             "black": "#0C0C0C",
