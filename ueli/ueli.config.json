@@ -1,25 +1,25 @@
 {
   "appearanceOptions": {
     "allowTransparentBackground": false,
-    "fontFamily": "Inter",
-    "maxSearchResultsPerPage": "8",
-    "searchResultHeight": 50,
+    "fontFamily": "atkinson hyperlegible ",
+    "maxSearchResultsPerPage": 8,
+    "searchResultHeight": "50",
     "showDescriptionOnAllSearchResults": true,
     "showSearchIcon": false,
     "showSearchResultNumbers": false,
     "smoothScrolling": true,
     "userInputHeight": "40",
-    "windowWidth": "660",
+    "windowWidth": "600",
     "userInputBorderRadius": "",
-    "userInputFontSize": "20px",
-    "userInputFontWeight": "400",
-    "userInputBottomMargin": "",
+    "userInputFontSize": "22px",
+    "userInputFontWeight": "350",
+    "userInputBottomMargin": 0,
     "searchResultNameFontSize": "17px",
     "searchResultNameFontWeight": "400",
     "searchResultDescriptionFontSize": "15px",
-    "searchResultDescriptionFontWeight": "300",
-    "searchResultsBorderRadius": " ",
-    "scrollbarBorderRadius": "0px"
+    "searchResultDescriptionFontWeight": "200",
+    "searchResultsBorderRadius": "",
+    "scrollbarBorderRadius": ""
   },
   "applicationSearchOptions": {
     "applicationFileExtensions": [
@@ -55,12 +55,12 @@
   },
   "colorThemeOptions": {
     "name": "Atom One Dark",
-    "userInputBackgroundColor": "#272e33",
-    "userInputTextColor": "#adb8b0",
-    "searchResultsBackgroundColor": "#272e33",
-    "searchResultsItemActiveBackgroundColor": "#9da9a0",
-    "searchResultsItemActiveDescriptionColor": "#1e2326",
-    "searchResultsItemActiveTextColor": "#272e33",
+    "userInputBackgroundColor": "#21272b",
+    "userInputTextColor": "#bbc4bd",
+    "searchResultsBackgroundColor": "#21272b",
+    "searchResultsItemActiveBackgroundColor": "#434e56",
+    "searchResultsItemActiveDescriptionColor": "#d9deda",
+    "searchResultsItemActiveTextColor": "#d9deda",
     "searchResultsItemDescriptionTextColor": "#9da9a0",
     "searchResultsItemNameTextcolor": "#9da9a0",
     "scrollbarBackgroundColor": "#272e33",
@@ -75,9 +75,9 @@
     "isEnabled": true
   },
   "currencyConverterOptions": {
-    "isEnabled": true,
+    "isEnabled": false,
     "precision": 2,
-    "defaultTarget": "INR"
+    "defaultTarget": "EUR"
   },
   "dictionaryOptions": {
     "debounceDelay": 250,
@@ -106,7 +106,7 @@
   "generalOptions": {
     "allowWindowMove": false,
     "autostart": true,
-    "clearCachesOnExit": false,
+    "clearCachesOnExit": true,
     "hideMainWindowAfterExecution": true,
     "hideMainWindowOnBlur": true,
     "hotKey": {
@@ -342,6 +342,20 @@
           "mullvad"
         ],
         "type": "File path"
+      },
+      {
+        "description": "",
+        "executionArgument": "https://tasks.google.com/",
+        "icon": {
+          "parameter": "",
+          "type": "URL"
+        },
+        "name": "Google Tasks",
+        "needsUserConfirmationBeforeExecution": false,
+        "tags": [
+          "tasks"
+        ],
+        "type": "URL"
       }
     ]
   },
@@ -361,10 +375,15 @@
         "excludeHiddenFiles": true,
         "folderPath": "E:\\Personal",
         "recursive": false
+      },
+      {
+        "excludeHiddenFiles": true,
+        "folderPath": "C:\\Users\\arghya\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles",
+        "recursive": true
       }
     ],
     "isEnabled": true,
-    "showFullFilePath": false
+    "showFullFilePath": true
   },
   "translationOptions": {
     "debounceDelay": 250,
@@ -397,7 +416,7 @@
         },
         "isFallback": false,
         "name": "DuckDuckGo",
-        "prefix": "dd ",
+        "prefix": "d ",
         "priority": 1,
         "url": "https://duckduckgo.com/?q={{query}}",
         "suggestionUrl": ""
@@ -501,18 +520,6 @@
         "prefix": "sc ",
         "priority": 0,
         "url": "https://scholar.google.com/scholar?q={{query}}"
-      },
-      {
-        "encodeSearchTerm": true,
-        "icon": {
-          "parameter": "",
-          "type": "color"
-        },
-        "isFallback": false,
-        "name": "startpage",
-        "prefix": "g ",
-        "priority": 0,
-        "url": "https://www.startpage.com/do/dsearch?query={{query}}"
       },
       {
         "encodeSearchTerm": true,
@@ -668,7 +675,7 @@
         },
         "isFallback": false,
         "name": "Google",
-        "prefix": "gg ",
+        "prefix": "g ",
         "priority": 0,
         "url": "https://www.google.com/search?q={{query}}"
       },
@@ -695,6 +702,18 @@
         "prefix": "p ",
         "priority": 0,
         "url": "https://paulgo.io/?preferences=eJx1WMmO4zYQ_Zr4IoyRDQhy8ClArgkwk7NQIktSjUiWhott9denqMWiWt2HFsxHsvaNrSBix54w3Dp06MFcDLguQYc3dF_--3oxrMDkxQVSZMV2NBjxppMa8l_HF7Jyuh49P6fbN5_wYjH2rG___vP12yVAiwHBq_728yX2aPEWKNO4eAzJxFCzqx0-6gjN7W8wAS-aqZZNNnf0NwZZXtl3l-VaHeIk4mjww0Whi-hrMNQ5K78X7qDv4BTqemW7EP2R0E81uTpSlPvzSXItOYpCU3k2ZgGXW1kqtdhmEkIG1Uq95zjgFG4aWxDxL5oCNEa4oevIiRn_7KCr68CKwFQWNcFPv_4FzkGoMmG6Y123ZDBkeBwqS96zLzHRspJvFSL78rADxU5DXVPMSx9Jye9s_LzdkBO-qxPXdbXsHk7FRryGcaXSjM3hUtTUdTtPpdSXeK_rO2nkDPCITtwSsKApxgvBYytaK0Ix_YI99J3ErwX1Ccd3y7OAGZRwECh_M6XkDWF5TxAvbKaD4NC7ntsS0ohvEh21TYHUvA4RIgllljj0M3IncFEsWQigdVeJc3NgELtQUkRRinRx_5UDZz2KvcV4hRGLvYOqBf5AyEx2XktYWBjluHyzNJa_05gDbD8VJQSng7F-eRZCtYbU4EvAI1aB2_gAj5UmL3GeI34JjtaTGwjKKGunqTCAsKEUdhPLOjKvtztJNGjWhWKNDfpu22PuRJ2TZVZ8NDDlFAh7JJY7liWyymtWMtXnfCM1u-wlbjey1mUQ9NB4yJ9VkB4kGfzihRkgq5tdQbJdKu1FDgq25OQncQofYxvP7xR63mkaEhH8VGUfBSpU3Da4rUSNTkpgqYqRfL5D6VrDTYh49Zvo8GYmT6rgLIUY1AhuPWAftjElBTfadctNALskrKeA-C7tQaJjTI2EEKyZsad73pddLrQZxbLQUdgqzUi5WGMoc230a28ohXqB56Tat7bI-ejaIadE4qvk-SrEj4fke3lrBo43FujEe4FPEes5xhz1EoKMRW1ZZMlhX-XPK6PAQvbzBgS0QpZUFVTPBnxp1JAr05h7ayFw5GHiyBJRQ_brZu2YpRQakA6HC3TVLh7iO7kgGRX6sgBDn1O4KNMZOJroTha5MMKDmkM1loHhCU57OsTrgwZqmIfwHvyROOJ7MHDy6oyOqObc_wTerZfh3KkoTu9P33l6Z9WMymhjJayvJ88_2Cx-G_uDPppUfGN3LLe__fbHc3eLThpdGRRvDmx5Xmo44nBEpLiNZDju9xzccxHbD_nUTB3aLfNHRB9TU2bsPHnI9SE34Qc2xdYEx96Z1-d490mKRUnxwU8a2Ek2VWFy7CaLpWY4-GOQLNCJ7gKf8ih8H6_jo7TVvcsVpfQDGNOLJVyJieOs9OqDPslaM-2UpKreD06agbOfF_gk2QIfVJMM3svuEqh9intvO9Slobt2vNWgi9TRw7g4Vyyp7elZZV1ew92T7mU0N5JOCuy41_Z8eu3-5dAnoslfKX6eAw_Sz8hJTdVjO3Auxa_xhnNvrPq0NfHMUkM8JsFrZjlMSnGSXBK1ihBptec8Pb06OsWd9NLeSxJrwz95acUPGq3YBzW0X-nOTCTHBwhlx0Vrpyonfsrj3lxAjoP7ciIF9J_tSdOLn-1lytIczttvX9Zmv8tiQeZ9ze4TZq_tXsq11PUPTuhXn6enMpx0MQiADHK4DT1bN8--DBhPnTxEGQujTJnbqDnqXFv2Q6O8guSBtO3mOCwiaV5fZ9a7BCN5GdIaKDSW2UyJVuQ0PvcwkYZtM7mC2zRueeFBZquqkTk8lFOdqKIpniwSpI7CNmDslYaT5NLRPtJq1cBSZFvDjy0Hw5Ca5GLaJsM8vziZqJZX3EcNO43oU3jZWZ6wpGWe9ksMbHpPnN4V6xfyeqsAGcmgPGcd2uxAh7gXIB-Z42izn5W6bGWGr6IHF4wYvRjYH-y1o6F4MDDHNnvAn6z3iNFfqajITfx9exruz97RJClk4ZbN_Lyuq2svSSGdDuUdL_PFYpzDAbFKLRVHDa-C-AmhPJwsixMNhnr5V8HDyyP-tC2v9lYe_C2fmft56q_lZSm3bfb7ReYqCfzb_94IcbU=&q={{query}}"
+      },
+      {
+        "encodeSearchTerm": true,
+        "icon": {
+          "parameter": "https://www.perplexity.ai/favicon.ico",
+          "type": "URL"
+        },
+        "isFallback": false,
+        "name": "Perplexity",
+        "prefix": "p ",
+        "priority": 0,
+        "url": "https://www.perplexity.ai/search?q={{query}}"
       }
     ]
   },
@@ -717,58 +736,6 @@
         "needsUserConfirmationBeforeExecution": false,
         "tags": [
           "reverse"
-        ]
-      },
-      {
-        "description": "Opens necessary set of applications for dsa practice",
-        "executionSteps": [
-          {
-            "executionArgument": "C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2023.1.2\\bin\\idea64.exe",
-            "executionArgumentType": "File Path"
-          },
-          {
-            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\BraveSoftware\\Brave-Browser-Beta\\Application\\brave.exe",
-            "executionArgumentType": "File Path"
-          },
-          {
-            "executionArgument": "https://excalidraw.com/",
-            "executionArgumentType": "URL"
-          }
-        ],
-        "icon": {
-          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\"><g id=\"surface1\"><path style=\" fill:#00BCD4;\" d=\"M 7 31 L 17 31 L 17 41 L 7 41 Z \"></path><path style=\" fill:#00BCD4;\" d=\"M 35.300781 19.300781 L 29.699219 13.699219 C 29.300781 13.300781 29.300781 12.699219 29.699219 12.300781 L 35.300781 6.699219 C 35.699219 6.300781 36.300781 6.300781 36.699219 6.699219 L 42.300781 12.300781 C 42.699219 12.699219 42.699219 13.300781 42.300781 13.699219 L 36.699219 19.300781 C 36.300781 19.699219 35.699219 19.699219 35.300781 19.300781 Z \"></path><path style=\" fill:#3F51B5;\" d=\"M 18 13 C 18 16.3125 15.3125 19 12 19 C 8.6875 19 6 16.3125 6 13 C 6 9.6875 8.6875 7 12 7 C 15.3125 7 18 9.6875 18 13 Z \"></path><path style=\" fill:#448AFF;\" d=\"M 42 36 C 42 39.3125 39.3125 42 36 42 C 32.6875 42 30 39.3125 30 36 C 30 32.6875 32.6875 30 36 30 C 39.3125 30 42 32.6875 42 36 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 11 24 L 13 24 L 13 29 L 11 29 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 12 21 L 9 25 L 15 25 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 20 12 L 25 12 L 25 14 L 20 14 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 28 13 L 24 10 L 24 16 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 35 21 L 37 21 L 37 26 L 35 26 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 36 29 L 39 25 L 33 25 Z \"></path></g></svg>",
-          "type": "SVG"
-        },
-        "name": "Dsa",
-        "needsUserConfirmationBeforeExecution": false,
-        "tags": [
-          "dsa"
-        ]
-      },
-      {
-        "description": "",
-        "executionSteps": [
-          {
-            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-            "executionArgumentType": "File Path"
-          },
-          {
-            "executionArgument": "C:\\Users\\Arghya\\AppData\\Local\\Thorium\\Application\\thorium.exe",
-            "executionArgumentType": "File Path"
-          },
-          {
-            "executionArgument": "E:\\Personal\\study\\js jonas",
-            "executionArgumentType": "File Path"
-          }
-        ],
-        "icon": {
-          "parameter": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 48 48\" version=\"1.1\"><g id=\"surface1\"><path style=\" fill:#00BCD4;\" d=\"M 7 31 L 17 31 L 17 41 L 7 41 Z \"></path><path style=\" fill:#00BCD4;\" d=\"M 35.300781 19.300781 L 29.699219 13.699219 C 29.300781 13.300781 29.300781 12.699219 29.699219 12.300781 L 35.300781 6.699219 C 35.699219 6.300781 36.300781 6.300781 36.699219 6.699219 L 42.300781 12.300781 C 42.699219 12.699219 42.699219 13.300781 42.300781 13.699219 L 36.699219 19.300781 C 36.300781 19.699219 35.699219 19.699219 35.300781 19.300781 Z \"></path><path style=\" fill:#3F51B5;\" d=\"M 18 13 C 18 16.3125 15.3125 19 12 19 C 8.6875 19 6 16.3125 6 13 C 6 9.6875 8.6875 7 12 7 C 15.3125 7 18 9.6875 18 13 Z \"></path><path style=\" fill:#448AFF;\" d=\"M 42 36 C 42 39.3125 39.3125 42 36 42 C 32.6875 42 30 39.3125 30 36 C 30 32.6875 32.6875 30 36 30 C 39.3125 30 42 32.6875 42 36 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 11 24 L 13 24 L 13 29 L 11 29 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 12 21 L 9 25 L 15 25 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 20 12 L 25 12 L 25 14 L 20 14 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 28 13 L 24 10 L 24 16 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 35 21 L 37 21 L 37 26 L 35 26 Z \"></path><path style=\" fill:#90A4AE;\" d=\"M 36 29 L 39 25 L 33 25 Z \"></path></g></svg>",
-          "type": "SVG"
-        },
-        "name": "Javascript",
-        "needsUserConfirmationBeforeExecution": false,
-        "tags": [
-          "js"
         ]
       }
     ]
