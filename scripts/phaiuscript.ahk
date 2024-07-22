@@ -33,6 +33,10 @@ class Spotify_Basic {
     }
 }
 Return
+;Send ROG key to toggle ghelper
+Sleep 10000
+SendInput, {F4}
+Return
 
 ; "CTRL + Alt + S" for Launching spotify / Activating the window / Minimizing the window
 ^!S::
@@ -42,9 +46,25 @@ if !ErrorLevel
 return
 
 
-;----------------------------------------------------------------------------------------------------------------------------------------
+;-------------------------------------------------------------------------------------------------------------------------------------
 ; HOTKEYS
 
+!h::
+SendInput, #{Left}
+Return
+!k::
+SendInput, #{Up}
+Return
+!j::
+SendInput, #{Down}
+Return
+!l::
+SendInput, #{Right}
+Return
+; End --> Ctrl+;
+^;::
+SendInput, {End}
+Return
 ; quit(alt f4) shortcut
 !+q::
 SendInput, !{F4}
@@ -52,8 +72,6 @@ Return
 ; maxmize firefox window on startup
 ^!f::
 Run, C:\Program Files\Mozilla Firefox\firefox.exe
-Sleep, 1000
-Send, #{Up}
 Return
 ; ueli restart
 ^!U::
