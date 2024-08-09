@@ -55,16 +55,16 @@
   },
   "colorThemeOptions": {
     "name": "Atom One Dark",
-    "userInputBackgroundColor": "#21272b",
-    "userInputTextColor": "#bbc4bd",
-    "searchResultsBackgroundColor": "#21272b",
-    "searchResultsItemActiveBackgroundColor": "#434e56",
-    "searchResultsItemActiveDescriptionColor": "#d9deda",
-    "searchResultsItemActiveTextColor": "#d9deda",
+    "userInputBackgroundColor": "#161a1d",
+    "userInputTextColor": "#c8d0ca",
+    "searchResultsBackgroundColor": "#161a1d",
+    "searchResultsItemActiveBackgroundColor": "#374149",
+    "searchResultsItemActiveDescriptionColor": "#c8d0ca",
+    "searchResultsItemActiveTextColor": "#c8d0ca",
     "searchResultsItemDescriptionTextColor": "#9da9a0",
     "searchResultsItemNameTextcolor": "#9da9a0",
-    "scrollbarBackgroundColor": "#272e33",
-    "scrollbarForegroundColor": "#272e33"
+    "scrollbarBackgroundColor": "#161a1d",
+    "scrollbarForegroundColor": "#161a1d"
   },
   "commandlineOptions": {
     "isEnabled": true,
@@ -628,7 +628,7 @@
         "name": "Belgium searx",
         "prefix": "e ",
         "priority": 0,
-        "url": "https://searx.be/?preferences=eJx1WMuu4zgO_ZrJxqhgpruBwSyyGmC23UBVrw3aom2WJVGlRxLfrx_Kj1iO713coHQoURQfh3S1ELFnTxhuPVr0oC8abJ-gxxvab39_v2huQefFBVLklo3TGPGmUjvmv54vZGR37Tw_p9sPn_BiMA6sbn_9-f3HJUCHAcG3w-2flzigwVugrOPiMSQdQ822tvioIzS3_4EOeFFMtQhZ39HfGGR5Zd9fOLTgv4U4iTWae2pZ4f2yKKsXWIEfLy3aiL4GTb018u_FJlB3sC2qejVmuepXQj_VZOtIUc7PO8l2ZCmKztaz1gu4nMq2tovHJlGksV21DxxHnMJNYQfyqIuiAI2W29D2ZMW5_-mhr-vALYGuDCqCf_z2X7AWQpUV0x3ruiONIcNurAx5z77E5JWV_FYhsi83W2jZKqhrinnpI7Xy7xySWeyfdJeLW0J5vQANacp_dX0nhRxmyIpta_jXdbVoKDTN6HLmcDY2kgUY1_sb1xxURUV9v1vbtu23eC_Os0MrYQ5Y3CRuD8FjV5ot2EPdSfKk0D6he1uezc6gpJdA-TdrSl4TlucE8XLNdDAcBjtwV0IK8UPyqjYpUDuv7wQ2iseL65TqK0mCnEDENhzOvyrmbGUhO7m4kB0esqSEASeQ_AoSJdWmw9P-9Swu6ZRnUnswOk3t6MsNHrEK3MUHeKwUecnvnOlLaDtPdiQos6uXqoFmled6bND367Jn7sW-03NWPLQDa_BljFeJ0zDlTA-7paXEsKRBqdBIQfpcVsIItnRq71ipMmIDNB7yz2riAJK5fnHqDJDpU-kQslBcJIXjwU9Vdm-gwryPb6toh7a93FViVS90VlqmpZbuUAZKcxMiXv1mCXzoyVMbduOFVKF1YNcN5mEaXWqwzqwiOwHslrCaAuJbyXl0XDzAiSOgp7BVsaNMoRjKzHbkhM92Nc6vvF4a8QLPKb6LtpT47Nghw11qrlJlm1GpMdmCPWF-PaT-Sj0zcL56gU-ZGNARbG8o0AzkZK7yzyv5wUAO6gYENKKU2s8SOWRScLkpFrZFHieOHAYecxA310ubIyVVJgwUi4jEbLqohnTQUaCrj5INUhZhKCkPBuYDMXKKqSlz4IW8yAxIT4YzaRXb7mSQi_WDmgNLymDwBKuk-kr0QSM1zGN4B38ljvgOBk6-PaMO27nMv4B3Z2c4dxCK0_vuO09vQciojDBGiOJ6SpMH6yXMbji8R1EbP9geifX33__9LKKIHxZMucHwT8TxUKBwz2S0Az41U49mK3mH6N_CNA8KMjSNufM9sCkjCMeGldfnzPdJWAIP2Y2jP1bZAp2OLvC5aO59Jo_SbaD1IG-zJSZ-NtIEDy3Vwx1PwDkMC3y6WIpvp8claYYU92Zz4JOxv_a8cccF7XEYm5lGODg9q2zoNrpIJrdg3F4UWehyCE7T0XGiGLAbOZMIS6z8PBoIBcTcIl4I51ZTDWnrligDTW7G24Z8l4IIn08MX8wRD8zZ4XctKGm3mfzCohS2lefijnXTVNwtuikVrUbWMTt0cS3F3eqlEZfWrK35FMUVPzhqWE-vvVY1uwlkJdDEqYx4gW2W_SThz_2UFPMIoaBNjcZMVa7wlCewmSmOM_eyIwX0X8mkM8avZFnzQtRvYgMylyu2X2h-iQehamHxT3aoV2enZ6s5qaL1gwxeuE0tuX-DzGY5WwLGAxluMumVMtzBOoMe5SHKmBdlYtzGRqcy6eybnHzN5DawSnM-XWdTdosceZm6GigmHhm2WnklWYXPPUJuclt9LV34kBAeJL5VI6UQyjlN3qYonlzkOcacmTLwMRa1JWQglXt0mdRfO7IQbqf5sc1UYUxNsjFtGZiHHCtj1fIB9lkjTw59Ci_Xx0POzn32-KBcxe9ADsI8G27nzGSkTmU4jB5s0OLIohZVUplJX3vztOtIcyyogr2yNJbAk0a2wndVmCxb0V9456e7ukehUko7djlM_uThR4z-SsXeKRmjC9MXbj68sIl_bB94-2ev00moNtzyMPW8rqurfDF38rHd8Tpm7RIZgGqh0XZ8cfXnGnL5rKKTjkHqVpow1pL-Gpb4HTYw1Mt_LTy8fN6fbfDz50At34eyx-TkucjQJgVz-z-9WnpK&q={{query}}"
+        "url": "https://searx.be/search?q={{query}}"
       },
       {
         "encodeSearchTerm": true,
@@ -690,18 +690,6 @@
         "prefix": "meta ",
         "priority": 0,
         "url": "https://www.metacritic.com/search/{{query}}"
-      },
-      {
-        "encodeSearchTerm": true,
-        "icon": {
-          "parameter": "https://paulgo.io/favicon.ico",
-          "type": "URL"
-        },
-        "isFallback": false,
-        "name": "PaulGo",
-        "prefix": "p ",
-        "priority": 0,
-        "url": "https://paulgo.io/?preferences=eJx1WMmO4zYQ_Zr4IoyRDQhy8ClArgkwk7NQIktSjUiWhott9denqMWiWt2HFsxHsvaNrSBix54w3Dp06MFcDLguQYc3dF_--3oxrMDkxQVSZMV2NBjxppMa8l_HF7Jyuh49P6fbN5_wYjH2rG___vP12yVAiwHBq_728yX2aPEWKNO4eAzJxFCzqx0-6gjN7W8wAS-aqZZNNnf0NwZZXtl3l-VaHeIk4mjww0Whi-hrMNQ5K78X7qDv4BTqemW7EP2R0E81uTpSlPvzSXItOYpCU3k2ZgGXW1kqtdhmEkIG1Uq95zjgFG4aWxDxL5oCNEa4oevIiRn_7KCr68CKwFQWNcFPv_4FzkGoMmG6Y123ZDBkeBwqS96zLzHRspJvFSL78rADxU5DXVPMSx9Jye9s_LzdkBO-qxPXdbXsHk7FRryGcaXSjM3hUtTUdTtPpdSXeK_rO2nkDPCITtwSsKApxgvBYytaK0Ix_YI99J3ErwX1Ccd3y7OAGZRwECh_M6XkDWF5TxAvbKaD4NC7ntsS0ohvEh21TYHUvA4RIgllljj0M3IncFEsWQigdVeJc3NgELtQUkRRinRx_5UDZz2KvcV4hRGLvYOqBf5AyEx2XktYWBjluHyzNJa_05gDbD8VJQSng7F-eRZCtYbU4EvAI1aB2_gAj5UmL3GeI34JjtaTGwjKKGunqTCAsKEUdhPLOjKvtztJNGjWhWKNDfpu22PuRJ2TZVZ8NDDlFAh7JJY7liWyymtWMtXnfCM1u-wlbjey1mUQ9NB4yJ9VkB4kGfzihRkgq5tdQbJdKu1FDgq25OQncQofYxvP7xR63mkaEhH8VGUfBSpU3Da4rUSNTkpgqYqRfL5D6VrDTYh49Zvo8GYmT6rgLIUY1AhuPWAftjElBTfadctNALskrKeA-C7tQaJjTI2EEKyZsad73pddLrQZxbLQUdgqzUi5WGMoc230a28ohXqB56Tat7bI-ejaIadE4qvk-SrEj4fke3lrBo43FujEe4FPEes5xhz1EoKMRW1ZZMlhX-XPK6PAQvbzBgS0QpZUFVTPBnxp1JAr05h7ayFw5GHiyBJRQ_brZu2YpRQakA6HC3TVLh7iO7kgGRX6sgBDn1O4KNMZOJroTha5MMKDmkM1loHhCU57OsTrgwZqmIfwHvyROOJ7MHDy6oyOqObc_wTerZfh3KkoTu9P33l6Z9WMymhjJayvJ88_2Cx-G_uDPppUfGN3LLe__fbHc3eLThpdGRRvDmx5Xmo44nBEpLiNZDju9xzccxHbD_nUTB3aLfNHRB9TU2bsPHnI9SE34Qc2xdYEx96Z1-d490mKRUnxwU8a2Ek2VWFy7CaLpWY4-GOQLNCJ7gKf8ih8H6_jo7TVvcsVpfQDGNOLJVyJieOs9OqDPslaM-2UpKreD06agbOfF_gk2QIfVJMM3svuEqh9intvO9Slobt2vNWgi9TRw7g4Vyyp7elZZV1ew92T7mU0N5JOCuy41_Z8eu3-5dAnoslfKX6eAw_Sz8hJTdVjO3Auxa_xhnNvrPq0NfHMUkM8JsFrZjlMSnGSXBK1ihBptec8Pb06OsWd9NLeSxJrwz95acUPGq3YBzW0X-nOTCTHBwhlx0Vrpyonfsrj3lxAjoP7ciIF9J_tSdOLn-1lytIczttvX9Zmv8tiQeZ9ze4TZq_tXsq11PUPTuhXn6enMpx0MQiADHK4DT1bN8--DBhPnTxEGQujTJnbqDnqXFv2Q6O8guSBtO3mOCwiaV5fZ9a7BCN5GdIaKDSW2UyJVuQ0PvcwkYZtM7mC2zRueeFBZquqkTk8lFOdqKIpniwSpI7CNmDslYaT5NLRPtJq1cBSZFvDjy0Hw5Ca5GLaJsM8vziZqJZX3EcNO43oU3jZWZ6wpGWe9ksMbHpPnN4V6xfyeqsAGcmgPGcd2uxAh7gXIB-Z42izn5W6bGWGr6IHF4wYvRjYH-y1o6F4MDDHNnvAn6z3iNFfqajITfx9exruz97RJClk4ZbN_Lyuq2svSSGdDuUdL_PFYpzDAbFKLRVHDa-C-AmhPJwsixMNhnr5V8HDyyP-tC2v9lYe_C2fmft56q_lZSm3bfb7ReYqCfzb_94IcbU=&q={{query}}"
       },
       {
         "encodeSearchTerm": true,
