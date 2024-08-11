@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root version="4" type="3" timestamp="1723219818">
+	<apps>
+		<item path="CryptSvc" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711838267" is_undeletable="true"/>
+		<item path="Dhcp" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711838267" is_undeletable="true"/>
+		<item path="Dnscache" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1651901162" is_undeletable="true"/>
+		<item path="DoSvc" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711270082" is_undeletable="true"/>
+		<item path="NlaSvc" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711838268" is_undeletable="true"/>
+		<item path="Spooler" hash="2DF0C85394907D077322DE36E991902B64C7F4BCB3E24ED3DC5C3F424D1BD704" timestamp="1711838268" is_undeletable="true"/>
+		<item path="UsoSvc" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711241278" is_undeletable="true"/>
+		<item path="wlidsvc" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711838268" is_undeletable="true"/>
+		<item path="wuauserv" hash="3FF60C6651B6E0134B8E72BA0554B4CD19BEEFFCD2116E1C6510C6A728938AF8" timestamp="1711838268" is_undeletable="true"/>
+		<item path="S-1-15-2-864892550-682355956-3667821578-694357232-3878941086-3291980491-2900429266" hash="155E5C34DFF796C9F3FD42FB724DA2BC000DBC22A70D2645BF1DB14F9BF521FF" timestamp="1713208270" is_silent="true"/>
+		<item path="S-1-15-2-1910091885-1573563583-1104941280-2418270861-3411158377-2822700936-2990310272" hash="CA8F84B9489DE7116A55A19E15B2825BDDED20B90F4CA9A5B7BF374AEAD3C316" timestamp="1720058455" is_enabled="true"/>
+		<item path="S-1-15-2-2434737943-167758768-3180539153-984336765-1107280622-3591121930-2677285773" timestamp="1711237794" is_silent="true"/>
+		<item path="S-1-15-2-350187224-1905355452-1037786396-3028148496-2624191407-3283318427-1255436723" timestamp="1711237796" is_silent="true"/>
+		<item path="S-1-15-2-515815643-2845804217-1874292103-218650560-777617685-4287762684-137415000" hash="3FA841FBE3ADB9A609D193CCD562E5E8AE42E4F569650364B416B83FE4878C8A" timestamp="1711237795" is_silent="true"/>
+		<item path="S-1-15-2-283421221-3183566570-1718213290-751554359-3541592344-2312209569-3374928651" timestamp="1711270069" is_silent="true"/>
+		<item path="S-1-15-2-2226957697-3030467180-2301525-4248967783-2024719031-2325529081-2915787518" hash="471487FA9812235E293AAB168A03D4176F7D01FFB242E3FF28768D59351662B1" timestamp="1711270872" is_silent="true"/>
+		<item path="S-1-15-2-1609473798-1231923017-684268153-4268514328-882773646-2760585773-1760938157" hash="9C7D11F2CB1143CC5E542A75425AF60DD172E4D54B8D3860E500D36DE42C1282" timestamp="1711270762" is_silent="true"/>
+		<item path="C:\Windows\system32\SppExtComObj.exe" hash="BEEFED2392EBFDC11D7D9F8EDC210B5A4B876C76C0C4EF73D84B19E377D6A9EA" timestamp="1711840486" is_undeletable="true" is_enabled="true"/>
+		<item path="C:\Windows\system32\lsass.exe" hash="2133D75CE6435C4C666D11820685A8438DBF269EE2F1A779002B9B60D38E07BB" timestamp="1711840486" is_undeletable="true" is_enabled="true"/>
+		<item path="C:\Program Files\simplewall\simplewall.exe" hash="FFC50A742642D36829955CB3FC13EFB50568D71A588AC36859A97CC9921C663B" timestamp="1711840486" is_undeletable="true" is_enabled="true"/>
+		<item path="System" hash="53AF7121CE55FCEC24933C56CBB5B8FD9E4BEC8D2DF94D6BCEDA3B591CA04DE3" timestamp="1711840486" is_undeletable="true" is_enabled="true"/>
+		<item path="C:\Windows\system32\svchost.exe" hash="324451797AC909A4DD40C7A2F7347EF91F6B7C786941AD5035F609C0FC15EDAA" timestamp="1711840486" is_undeletable="true" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoftwindows.client.webexperience_424.1301.310.0_x64__cw5n1h2txyewy\dashboard\widgets.exe" hash="C576784207661A536E59163EFD59837EB77A0D7FB80F3FA056FE6D007A1AF16D" timestamp="1711840604" is_silent="true"/>
+		<item path="C:\program files (x86)\microsoft\edgewebview\application\123.0.2420.65\msedgewebview2.exe" hash="88759C93033863706069AAD753F18B7DCD9D166CDF5BC062B8D7AECDB792B1CD" timestamp="1711840604" is_enabled="true"/>
+		<item path="C:\windows\immersivecontrolpanel\systemsettings.exe" hash="0CE4C322E58ABA3640B800C8D5F9ACC720C5E5E9B7C21458A47083316DA2E012" timestamp="1711840616" is_silent="true"/>
+		<item path="C:\program files\powershell\7\pwsh.exe" hash="FAA2D22D0810BFDD8578661DD196D25DDB918D1FB3B514FFDCED2AC5E7DD80B2" timestamp="1711840683" is_enabled="true"/>
+		<item path="C:\windows\system32\taskhostw.exe" hash="81B033630F0DF0AF3F6D93FB455B16A31CFEB58960BAE12B5292D91E17D82FCB" timestamp="1711841832" is_enabled="true"/>
+		<item path="C:\program files\mozilla firefox\firefox.exe" hash="F468F0BEA44B42606DF8E4EAD481CC7C11FE0811B05E5783E905198E88D0B44C" timestamp="1711841832" is_enabled="true"/>
+		<item path="C:\program files\ueli\ueli.exe" hash="831E39833CC49CB8A8CB835AB0AC6AA04E662A486583D54748F3D1E790F90431" timestamp="1711841920" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\roaming\microsoft\windows\start menu\programs\startup\ghelper.exe" hash="E88CB9FF3D121A21CBE4610F08D5B0AB874D9286D4478756058E22B6DB45D7EF" timestamp="1711841958" is_enabled="true"/>
+		<item path="C:\windows\system32\sihclient.exe" hash="02329073BC9C7DCB9BEEBD51F548140CB9448CFBF07AE20BCE650ECA25925D41" timestamp="1711879848" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\sophiapp\sophiapp.exe" hash="262E93A353D3C4B2A89174A9A2571B2ED648735F53C49289D84228BA648EF274" timestamp="1711879896" is_enabled="true"/>
+		<item path="C:\windows\system32\devicecensus.exe" hash="837D390954587107C8F5494324F5DF458BEAB08FC8D30C48D576E878C49C1675" timestamp="1711880158" is_enabled="true"/>
+		<item path="C:\windows\system32\rundll32.exe" hash="D251CDCF097A3937E4D7212F06C8706FCD49889B332267FB649001E5AA4E0443" timestamp="1711880158" is_enabled="true"/>
+		<item path="C:\windows\system32\dxgiadaptercache.exe" hash="F6846EFDBC06906C002F64B09CE79B4924DA34E6881653548F11B64EE616485A" timestamp="1711880697" is_silent="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.22.10661.0_x64__8wekyb3d8bbwe\winget.exe" hash="8845116A7D1118007D360277ED5F30AB7C508D01236A0C0FD35A4623B1936D47" timestamp="1711880880" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\msteams_24033.813.2773.520_x64__8wekyb3d8bbwe\ms-teams.exe" hash="FB878AE3BADBB6242D36F2D5EEF380C4A7FE87FDE88A2AEE24FFAAF623E68955" timestamp="1711881582" is_enabled="true"/>
+		<item path="C:\windows\system32\smartscreen.exe" hash="3FBFE0A811CB59312EF7597EE0F4FEC6EF1576F5FF0828A7F79FA5C30FC20305" timestamp="1711881637" is_silent="true"/>
+		<item path="C:\windows\system32\runtimebroker.exe" hash="8F6EEB5538E9ECEBFE56E2CC1EFE80BC1F9444B547D386CDDB3EC6A6E084FC34" timestamp="1711881697" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\thorium\application\thorium.exe" hash="992782BBA55F71D997A228ECA9CB9C561E23850E351A7C34639F7580F09EC6DE" timestamp="1711881935" is_enabled="true"/>
+		<item path="C:\program files (x86)\internet download manager\idman.exe" hash="3BBC45AE55C07D5644771202F4BF6258345D47346C557222AE84689EE37B33DF" timestamp="1711882135" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\notion\notion.exe" hash="A0631482352968197BB9CED7A127F758FDCA313CE02DFCA0635EEF13488EAA1A" timestamp="1711882813" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\signal-desktop\signal.exe" hash="7A37728C5D581FD47C0DFF00F8A4A24F627A79DAB153CFF8C28F9CF4C68DA4D0" timestamp="1711883023" is_enabled="true"/>
+		<item path="C:\program files\qbittorrent\qbittorrent.exe" hash="4960D43A2931D09E560ED18427A2C70F3EB99CCA910E5CC0330135BBE061CB39" timestamp="1711909199" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\roaming\spotify\spotify.exe" hash="7068F21C2F81153FF5325D95B7885250B5B38BEB832E9B3B0F909A9917D2318A" timestamp="1711909214" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\msteams_24033.813.2773.520_x64__8wekyb3d8bbwe\ms-teamsupdate.exe" hash="F8463FF3B5B12C39342AE743EDDC77A628F1CD8532FBCFB15ACCCCECBD0EBF6A" timestamp="1711909598" is_silent="true"/>
+		<item path="C:\program files\obsidian\obsidian.exe" hash="7742BA6E1EDF4631AD63856C4AE51F39D7F1E5EB50420EA8E12B6D5C14B5A412" timestamp="1711909968" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\is-gcq8k.tmp\setup.tmp" timestamp="1711912620" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\is-jhgc3.tmp\setup.tmp" timestamp="1711906897" is_enabled="true"/>
+		<item path="C:\users\arghya\scoop\apps\hwmonitor\1.53\hwmonitor_x64.exe" hash="98EFC8FA681D39E3954D9A4E295C42F67AD0C986B7BD3D4B9879B2C3B95B1164" timestamp="1711908274" is_silent="true"/>
+		<item path="C:\program files\git\mingw64\libexec\git-core\git-remote-https.exe" hash="341460ADED1602F0E883A519D7DD26A2D2DF884F6BE246958B0197C126456867" timestamp="1711978292" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\bravesoftware\brave-browser\application\brave.exe" hash="870196C6CF84E080974385F24E464AF4CACC9466FF889F41F3D796FA2BFB9616" timestamp="1711980740" is_enabled="true"/>
+		<item path="C:\king games\grand theft auto v\gta5.exe" hash="4C663C738E184EA60B3C3208147C3815605D98D1802EC08107B2C22AC5F2C46D" timestamp="1711994818" is_silent="true"/>
+		<item path="C:\windows\uus\packages\preview\amd64\mousocoreworker.exe" hash="12F00B3CC84352568776E1D54190D5E756689D4B83EADDB8A643A3B538286DFE" timestamp="1711994913" is_silent="true"/>
+		<item path="C:\windows\installer\razer\installer\app\razerinstaller.exe" hash="D255EDD004AC5AA8145BC229C72B8046A247F053BAFE3A4746FFBD709237E87A" timestamp="1711995005" is_silent="true"/>
+		<item path="C:\users\arghya\scoop\apps\rtss\7.3.6\rtss.exe" hash="79F7A32380399F597DC3AA6C16BB3E21D17BCBC70C323E9DE5794A26F434728A" timestamp="1711996277" is_silent="true"/>
+		<item path="C:\program files\mozilla firefox\default-browser-agent.exe" hash="FA9E776904F73535FA3CC0C75B1638F7D1A3F560716D921F919983136A33F562" timestamp="1712030753" is_silent="true"/>
+		<item path="C:\windows\system32\apphostregistrationverifier.exe" hash="B16C3B3D7393D6040E7D1576094DE62A4C3A2E7AB0767F9A70DF31AAF67A0AF1" timestamp="1712125695" is_silent="true"/>
+		<item path="C:\users\arghya\downloads\programs\openiv-4-4-1-1710471600.exe" hash="84BDE632C5BFD2A7FF84E579E6F7561543CA0AAD6D8E7275DAE5926BA4F561C1" timestamp="1712129193" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\new technology studio\apps\openiv\openiv.exe" hash="51BAD3DEA5D533CF53779F852B106DACC356991E5FFD0878C3C7ABE9CD6BD9D8" timestamp="1712132881" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\7zs0c911d88\setup-stub.exe" hash="11C66AE24585ED2DE7AA82A9705FBF65DFE90E8BB2A2F5784C1CBA71188588E9" timestamp="1712405022" is_enabled="true"/>
+		<item path="C:\program files\firefox nightly\firefox.exe" hash="A9D91899B3227DC3474D7F43274355B6F7BE8D6091D557A22355922D758B820F" timestamp="1712405057" is_enabled="true"/>
+		<item path="C:\program files\firefox nightly\pingsender.exe" hash="3B051B3D334515C9C967DA005C94297D0E010316D9FE2AEB79B1FFA3BDDF7C41" timestamp="1712405125" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\chromium\application\chrome.exe" hash="14BAE9864189F3862BB0878593C109535B4243CFC06B76D5A14EA0B23BF0E8E9" timestamp="1712494474" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_0.16.2.20369_x64__ttt1ap7aakyb4\arc.exe" hash="940F3C4814EA05D1FD0582AE78A7F33901FBCCFAC0DFD6EFC689908844116EA9" timestamp="1712499200" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_0.16.2.20369_x64__ttt1ap7aakyb4\crashpad_handler.exe" hash="12ACB5FE70368EED31B694E6739AFE822935632C2E30809F33A310489DDEE96E" timestamp="1712499215" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\bravesoftware\brave-browser-nightly\application\brave.exe" hash="D98FAD2144C68EC9AFF7293E0308AB9E0CAAC4B9C8D3FF91118E6EB4B541D6CF" timestamp="1712558863" is_enabled="true"/>
+		<item path="C:\program files\mozilla firefox\pingsender.exe" hash="A21E04A3A3BC949723C68109A007F02AD8E30ED275B7A114E0FBB20640F8DAA8" timestamp="1712559542" is_silent="true"/>
+		<item path="C:\program files\windowsapps\msteams_24060.2623.2790.8046_x64__8wekyb3d8bbwe\ms-teamsupdate.exe" hash="C8D4536DB31805F57C40D0419BF5C9AA51E92E18195A8CD6F45A21DCC0ABCE49" timestamp="1712677541" is_silent="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_0.17.0.20604_x64__ttt1ap7aakyb4\arc.exe" hash="3DF0D26DB59FE4A877BC1C6A34D4C02C5A31D3DC3011B949C6202364198EC793" timestamp="1712681074" is_enabled="true"/>
+		<item path="C:\users\arghya\desktop\uad_gui-windows.exe" hash="91C7D32B8F2B021748E4DD0A6BFB7FEE6C9882AE1AE2A0F62042381726C992B5" timestamp="1712682113" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\uad-ng-windows\uad-ng-windows.exe" hash="852FB95E3B729CD74EAF6A4C935A3E19D0714879BFC17FA73B048241313EEAEB" timestamp="1712682830" is_enabled="true"/>
+		<item path="C:\program files\common files\microsoft shared\clicktorun\officeclicktorun.exe" hash="7566C5E451A158D4EF5C42AA362A36BDA887A0F03B3C20478795255E84DBD014" timestamp="1712908349" is_silent="true"/>
+		<item path="C:\program files\common files\microsoft shared\clicktorun\officec2rclient.exe" hash="21E81796A35A7544D86F9A216DEF715BAC3155E570584FD8A38ABA97B031E2FD" timestamp="1712908358" is_silent="true"/>
+		<item path="C:\program files (x86)\microsoft office\root\office16\powerpnt.exe" hash="4B7169CA1BE0F5CA603EFC62243B3BD164C5336D2E02F10BB5DA96CC121A7220" timestamp="1712910200" is_silent="true"/>
+		<item path="C:\program files\common files\microsoft shared\clicktorun\updates\16.0.17425.20146\officeclicktorun.exe" hash="B0F1B9B17D9B9DF2EAA6FCA1233548E6082B825F6374B8CF450729E0D1010CA3" timestamp="1712910333" is_silent="true"/>
+		<item path="C:\program files\soulseekqt\soulseekqt.exe" hash="967F54BBF7E8EACB6FDF3E6629409C8C93F247F9FAA3EA6A3D356F2B2F80951F" timestamp="1712911281" is_enabled="true"/>
+		<item path="C:\program files (x86)\microsoft office\root\office16\sdxhelper.exe" hash="754FAA288256AA8351E9E66A13BAD63152B84C792CDD0BBE979D815B8F43D537" timestamp="1712911398" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\spicetify\spicetify.exe" hash="7F79CD82942743659C52E64B14AF3DD2371F30F72E2E87E09DBEB39E32B7D3D2" timestamp="1712933954" is_enabled="true"/>
+		<item path="C:\program files (x86)\microsoft office\root\integration\integrator.exe" hash="3AB4E7BB0335A5AE05EED39274320166A914BC09B07D5AAC422DF77C53F6369C" timestamp="1712994448" is_silent="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.22.10661.0_x64__8wekyb3d8bbwe\windowspackagemanagerserver.exe" hash="94A33A5A284244000A52E750B9FB65B44B8BD1743198FF87E84B813322852685" timestamp="1713207730" is_silent="true"/>
+		<item path="C:\windows\explorer.exe" hash="14564179786F0F8D1E73292F8EAE698540F905E079186D6A0F96713B065CAF33" timestamp="1713300592" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\7zs8b6003e7\setup.exe" timestamp="1713300751" is_silent="true"/>
+		<item path="C:\windows\system32\windowspowershell\v1.0\powershell.exe" hash="D3B4B97C2BF97D70E5655FF4C4CA1D8CEF9DED51685CFD764247CFDA98EE68DF" timestamp="1713301001" is_enabled="true"/>
+		<item path="C:\program files\git\mingw64\bin\curl.exe" hash="66BD09DDECCA0D8D4343F4CBE63D537129FE99E32B57A7C51F545CE768C31AFC" timestamp="1713301007" is_enabled="true"/>
+		<item path="C:\program files\nvcleanstall\nvcleanstall.exe" hash="EFECB17D9D73082BF28A6E7C6BB87A81C65A59B2D4D14251678DA3CFFA6A12A1" timestamp="1713301542" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\rave-desktop\rave.exe" hash="C27C58DA789E62BCA0EEF0C0704523530E52660F523453A61CD952850519B332" timestamp="1713375051" is_enabled="true"/>
+		<item path="C:\windows\system32\mrt.exe" hash="2D8DE781FF8FEE16C025E1F041F89C256EDCC01D7223FE811403000DE3C6A5C5" timestamp="1713501549" is_silent="true"/>
+		<item path="C:\program files (x86)\nextdns\nextdns.exe" hash="9E3F9B649BDE85DA8247D590FCE1502D5EC7126FFB638A8106FDE0262353DDAA" timestamp="1713885087" is_enabled="true"/>
+		<item path="C:\program files (x86)\nextdns\nextdnsservice.exe" hash="BBE464B556C8E48DBD60D3AE0D4E739D95092B249B54E31B5F37F76CD872C85C" timestamp="1713885205" is_enabled="true"/>
+		<item path="C:\program files (x86)\system ninja\cleansync.exe" hash="A1AA924C96F248451EE1CA9C5A4D67C395BE9F544F19D5E096270823736C5818" timestamp="1713955720" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_5a5c892944a7f61d\display.nvcontainer\nvdisplay.container.exe" hash="28E07245CEE08C453610FEC607FD628137CD5BC094E58B0A686FFC37581F2C09" timestamp="1714121348" is_silent="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24030.9-0\mpcmdrun.exe" hash="678DA415B8A27152F022DFA77749547EDFF325F3AEE436FA5803FBB59B6B8AF2" timestamp="1714122367" is_silent="true"/>
+		<item path="C:\modding\mo2\modorganizer.exe" hash="80AC43549D7E15249A5CBA2F1E8509612B229FFC0E949A6B940137D87C27C226" timestamp="1714130248" is_enabled="true"/>
+		<item path="C:\program files (x86)\microsoft office\root\office16\winword.exe" hash="E25F32401FD3D25958B8B99F280F0325B232E54F185CC5D6E0710923005AC64A" timestamp="1714149662" is_silent="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_0.19.1.23719_x64__ttt1ap7aakyb4\arc.exe" hash="736F71E02E96891665ED82C7A39E7D868CFC47C06E392E8DC9A0952A16C94E2A" timestamp="1714233858" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_0.19.2.24509_x64__ttt1ap7aakyb4\arc.exe" hash="CBAE7603175FBD40985DE723DDC51CD16BA4840BA3AF017A76DFF0129849D919" timestamp="1714234255" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\msteams_24060.2623.2790.8046_x64__8wekyb3d8bbwe\ms-teams.exe" timestamp="1714399132" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\msteams_24074.2323.2827.4973_x64__8wekyb3d8bbwe\ms-teamsupdate.exe" hash="8E02B831667E5DD44B46CE3C07E26E480CC562D59C7FED455F9F59FE38FF2269" timestamp="1714415700" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\discord\app-1.0.9040\discord.exe" hash="93F4A074E0158CD1CE3D92835BCCB772846C8D4F45CE39939E648945929BEBAB" timestamp="1714417173" is_enabled="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24030.9-0\mpdefendercoreservice.exe" hash="A0A798830F92FF3DAA6719AA38D62ABD2E221D9256D5179063E8D4DAB6B9078E" timestamp="1714417543" is_silent="true"/>
+		<item path="C:\program files\windowsapps\microsoft.windowsterminal_1.19.10821.0_x64__8wekyb3d8bbwe\windowsterminal.exe" hash="4C00300CF4D743CEDA292AD4258CFD6779F6D61C8FA64639A211A1A464909AE1" timestamp="1714623958" is_enabled="true"/>
+		<item path="C:\users\arghya\desktop\uad\uad-ng-windows.exe" hash="852FB95E3B729CD74EAF6A4C935A3E19D0714879BFC17FA73B048241313EEAEB" timestamp="1714624338" is_enabled="true"/>
+		<item path="C:\users\arghya\scoop\apps\memreduct\3.4\memreduct.exe" hash="31689824DD984BD9C0F07C20F05BC253F6D107581AEC4609044FDDCDD50F655D" timestamp="1714633901" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_5a5c892944a7f61d\nvngx_update.exe" hash="2FFC9CFB15D3F0E5A3C42F2288300279EBDD75D6DCC9FE8D26A06421241BB3F0" timestamp="1714639879" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\oh-my-posh\bin\oh-my-posh.exe" hash="FE2149AC0F314BBEADA7329C59FE56CB0E2CD518CBF0DE211A744E93ECADF6D6" timestamp="1714826020" is_silent="true"/>
+		<item path="C:\program files\windowsapps\msteams_24091.214.2846.1452_x64__8wekyb3d8bbwe\ms-teamsupdate.exe" hash="E6E3399DE68B39F0A4850FFC4ECE79ECB4C9D2F4A909D4D27F41F36922678FD9" timestamp="1714936767" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\powertoys\winui3apps\powertoys.settings.exe" hash="52B7BB070ACCF54CE0657452F14C615400B4AAEF413B46DE3774F1F6085C6547" timestamp="1714973510" is_silent="true"/>
+		<item path="C:\program files\windowsapps\msteams_24091.214.2846.1452_x64__8wekyb3d8bbwe\ms-teams.exe" hash="CFD7F9226837A8CBBE526DC43FF215C4D18B000FDFB14BC7BDF179AF55F894DD" timestamp="1715065711" is_enabled="true"/>
+		<item path="C:\program files\bcuninstaller\win-x64\bcuninstaller.exe" hash="18E93BA018BD8A9D01459869E9A466C7D81ED11E1C1F5508AFCD33BC2AB5EE9B" timestamp="1715352111" is_silent="true"/>
+		<item path="C:\program files (x86)\bleachbit\bleachbit.exe" hash="E3B7D890DE04090D458725C332DD2FD381B3B031B0CDC14C352167F0DE2E4B8B" timestamp="1715352492" is_silent="true"/>
+		<item path="C:\users\arghya\desktop\mullvad browser\browser\mullvadbrowser.exe" hash="5D56A1C95B448D149F3D2CDFDB873B13C508F3B959488415F7316241169A039E" timestamp="1715496046" is_enabled="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24040.4-0\mpdefendercoreservice.exe" hash="08F00EBD436CADDBBC6AA8FA4BDFE4FC95CA8EBE55EF20AE1CC24A123A185AC5" timestamp="1715918982" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\7zsc8702960\setup-stub.exe" hash="066B1B39A602E52FEF8F726C02F3ACF9B10BBCC8E143BE7E084EE2A46B3754F9" timestamp="1716029463" is_enabled="true"/>
+		<item path="C:\windows\uus\amd64\mousocoreworker.exe" hash="71B7C89101FACD75F0E907C4614A4388028F046E50AB316F667809DAF3EFC783" timestamp="1716118950" is_silent="true"/>
+		<item path="C:\program files\windowsapps\msteams_24102.2223.2870.9480_x64__8wekyb3d8bbwe\ms-teamsupdate.exe" hash="2033043AEC5A53671DD4926ECEE5763FA27CF82F70F73D4ACE2AD787F1D65441" timestamp="1716196001" is_silent="true"/>
+		<item path="C:\program files\windowsapps\msteams_24102.2223.2870.9480_x64__8wekyb3d8bbwe\ms-teams.exe" hash="90CD803FDD825006EB7C32CCE977BC12CDEAEE96F9791A8CCF743120C4255261" timestamp="1716251170" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.windowsterminal_1.20.11271.0_x64__8wekyb3d8bbwe\windowsterminal.exe" hash="330C7C0632CDF229F052FDB2C2917CFBC18D89CDFF15923C0CE883D939ABE0C7" timestamp="1716384252" is_enabled="true"/>
+		<item path="C:\users\arghya\scoop\apps\localsend\1.14.0\localsend_app.exe" hash="C7A82190A0B6C0E3ADD7F1B505BE4EC1BC01CED2B0255018A7A0FE3603E3043E" timestamp="1716559310" is_enabled="true"/>
+		<item path="E:\king games\ghost of tsushima\ghostoftsushima.exe" hash="E0645F700E3C27BD61CCCF6FF062D53B29385F16B41E1618C2B73D2FC5288D13" timestamp="1716573942" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_afa6df0b7490d433\display.nvcontainer\nvdisplay.container.exe" hash="5FE94DA81CC0A6B6210E2863D9361931638CC6B61456FA4FE751C5E995C3EE51" timestamp="1716574691" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_afa6df0b7490d433\nvngx_update.exe" hash="7F556B2DDDD9C55201ED202E1686988E2FF9B47B9811060A857466E6954CB422" timestamp="1716574694" is_silent="true"/>
+		<item path="C:\program files\cheat engine 7.5\cheatengine-x86_64-sse4-avx2.exe" hash="8CAEF5000B57BCA014EF33E962DF4FCA21AEAD0664892724674619EF732440AD" timestamp="1716642247" is_enabled="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24040.4-0\mpcmdrun.exe" hash="4B3517F91892BA8675DFA1FEC0949AFFB6A61D3D1536404E1591D398CC65323F" timestamp="1716959212" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\winget\packages\syncthing.syncthing_microsoft.winget.source_8wekyb3d8bbwe\syncthing-windows-amd64-v1.27.6\syncthing.exe" hash="6D6D8084115D12AE182D87E4A5D3A83FB176220C3146214177468880B49EE2F1" timestamp="1716995306" is_enabled="true"/>
+		<item path="C:\program files (x86)\musicbee\musicbee.exe" hash="6DB66183B82EF93E28999513069EB518BAC5B5CA9649936EC07D9B0C4B358F3C" timestamp="1716996135" is_enabled="true"/>
+		<item path="E:\king games\call of duty - black ops\blackops.exe" hash="2BA4A04E81DE2B60582DA0E4489EFDE21E6CB07904A223BAE633B6CCAEBBF759" timestamp="1717003730" is_silent="true"/>
+		<item path="E:\king games\call of duty - black ops\bgamert5mp.exe" hash="0A636F0EDEB8D827AA39C1A5B61FA03DAB8DBE07F7FDD530257DB822FF550C68" timestamp="1717003945" is_silent="true"/>
+		<item path="E:\king games\inside\inside\inside.exe" hash="B027A2DBF752EC38A7D74865379DD05B40DA700E6F3005A1F2BBB17CF32EFCFB" timestamp="1717081604" is_silent="true"/>
+		<item path="C:\king games\it takes two\nuts\binaries\win64\ittakestwo.exe" hash="923394EA128E497A366A8722A77D9E0123E8D29184E5527C6454997E6B8FE338" timestamp="1717093779" is_enabled="true"/>
+		<item path="E:\king games\counter-strike\hl.exe" timestamp="1717098874" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\peacesetup.exe" hash="9720D0D34F9FCFA8C9E545E3E0955B31BBD445AA090DE66C5A7C311B1EB703AC" timestamp="1717179114" is_silent="true"/>
+		<item path="C:\program files\equalizerapo\config\peace.exe" hash="969D0BCB66E75E062AF23425BEFFE3DCD106716157968BB38837182E3394A4A1" timestamp="1717179170" is_silent="true"/>
+		<item path="C:\program files\synctrayzor\synctrayzor.exe" hash="49CC30212ED2DCDE410AE1E37C0F15D3BAA62FC9268D4C5A532FB8FDCFC67724" timestamp="1717179535" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\7zsc70523cc\install.exe" hash="747C644F9AB7E8A3730A8BAB865510017B48DDF30A2BDBF55C3735AF4405C16A" timestamp="1717234787" is_silent="true"/>
+		<item path="C:\program files\j river\media center 31\media center 31.exe" hash="07246103961606C462AB55F59A00F7BA371928C1F0B6BEF90BBE34B9E428ADC7" timestamp="1717235060" is_silent="true"/>
+		<item path="E:\king games\game setup\foobar2000\foobar2000.exe" hash="11320565DA5016DB09304377B0C0B97CD1E6D429665D8974EBC421FBF3624EF6" timestamp="1717238190" is_enabled="true"/>
+		<item path="C:\windows\syswow64\cscript.exe" hash="674810C354768C0A4CCAA7D8B82F2A2626608571BC51A330F797BC0121FEB866" timestamp="1717238876" is_enabled="true"/>
+		<item path="C:\users\arghya\scoop\apps\quicklook\3.7.3\quicklook.exe" hash="304872649952948F71BE2864DB93A2695CE5BD791DD522A52414BAF0B8305E86" timestamp="1717247595" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\beeper\beeper.exe" hash="A7F4B882857D481D9446C4A58D471983EB00E93930E115D32E14FE3895C3827E" timestamp="1717351413" is_enabled="true"/>
+		<item path="C:\winaerotweaker\winaerotweaker.exe" hash="69ECFD7AD61617A769D230D6D6DB082D965C5550F92C4913CD60EF47D3158D38" timestamp="1717490349" is_silent="true" is_enabled="true"/>
+		<item path="E:\king games\kentucky route zero\kentuckyroutezero.exe" hash="960CD14DF940613310EC0E52FC6B3CF41CC85C0ABDEEE31EC1F0F06429041DC6" timestamp="1717504309" is_silent="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24050.7-0\mpdefendercoreservice.exe" hash="3BD28525A42FD030D32C482FC0B4A0224A7D2DBBADBE0A80FFD678E5138B7296" timestamp="1717662838" is_silent="true"/>
+		<item path="C:\users\arghya\downloads\cinebench2024_win_x86_64\cinebench.exe" hash="B64FACE29FF36F7EE88FC1283EA21B2AD98F9043C443A75E4EC9EF05CEAE81DE" timestamp="1717841048" is_enabled="true"/>
+		<item path="E:\king games\game setup\ghelper\ghelper.exe" hash="23D1C6499E80A747B00743982C6FC174E6E0D09EEED15843E265090BAFCB4004" timestamp="1717841712" is_enabled="true"/>
+		<item path="C:\programdata\chocolatey\choco.exe" hash="9A058764417A634DCB53AF74C50F9552AF3BC0B873A562F383AF36FEEFC1496E" timestamp="1717882969" is_enabled="true"/>
+		<item path="C:\windows\temp\{3fa0ef0f-d5ed-41fe-83b6-ce84f6a5742c}\.cr\adksetup.exe" timestamp="1717882994" is_enabled="true"/>
+		<item path="C:\users\arghya\desktop\sophia_script_wrapper_v2.7.0\sophiascriptwrapper.exe" hash="C1E6127A8A4F29663B73B7EDF31BA8E21C7EF1375E272023B148A141A59A6F20" timestamp="1718103914" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.22.11261.0_x64__8wekyb3d8bbwe\winget.exe" hash="19E822B0B65B7868555477F18596DD05984C877A50A53152AEB14ADCC822F5F1" timestamp="1718136224" is_enabled="true"/>
+		<item path="C:\program files\deluge\deluge.exe" hash="2F825F803C7EBED9A61E627E0379B31A9DAF273010FC4A78BE0B5723E6993D64" timestamp="1718186139" is_enabled="true"/>
+		<item path="C:\program files\hwinfo64\hwinfo64.exe" hash="9EC0D8BC09567101F13FF80EB7B80F161024F036D67F0C374339D8F7EA31BD2C" timestamp="1718191596" is_silent="true"/>
+		<item path="C:\king games\assassin's creed - syndicate\acs.exe" hash="A2E6CA1504D172CA87F500D1D6CB1DE97A2F6687F7CE77F661DCE95E90C54E0E" timestamp="1718192853" is_silent="true"/>
+		<item path="E:\king games\assassin's creed - syndicate\acs.exe" hash="A2E6CA1504D172CA87F500D1D6CB1DE97A2F6687F7CE77F661DCE95E90C54E0E" timestamp="1718205922" is_silent="true"/>
+		<item path="C:\users\arghya\scoop\apps\cpu-z\2.09\cpuz_x64.exe" hash="07EE15632C25D9519F0E045A091F67C79E432EE01F07F2C0064D0B739840CFC8" timestamp="1718312989" is_silent="true"/>
+		<item path="E:\king games\disco elysium\disco elysium.exe" hash="A1C26FBA496DB96B444E7CE256B48A5A9A6F3CF193787E01A55DEFF66D1D084B" timestamp="1718527055" is_silent="true"/>
+		<item path="C:\users\arghya\scoop\apps\rufus\4.4\rufus.exe" hash="42CDB16F6DD64C4FEC30C7A71960FE4D0015862C37E7B02C8DBA5C0D68384C74" timestamp="1718546578" is_enabled="true"/>
+		<item path="C:\program files (x86)\microsoft\edgeupdate\microsoftedgeupdate.exe" hash="F3C7BAB6A7652E58719CE96EDFEFF483316668BD48D912694F1175FB397B86FD" timestamp="1718604494" is_silent="true"/>
+		<item path="C:\windows\system32\curl.exe" hash="2BBAD800BC5058CAD5631DBFFD39FB8A293616479250C47B38DC8E8EB61DC3DA" timestamp="1718604714" is_enabled="true"/>
+		<item path="C:\program files (x86)\bravesoftware\update\braveupdate.exe" hash="F86B9C463D5A2AEC77ECFA7230E279953AF280C6E12A1BCE88D1BC2C1AABFBB6" timestamp="1718903011" is_enabled="true"/>
+		<item path="C:\program files\bravesoftware\brave-browser-nightly\application\brave.exe" hash="9632712E84DD2EC15FBDC40F37EB3F7BA9975B5A55A606D2E99B4B8436868AFD" timestamp="1718903162" is_enabled="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_42677516ffe435f5\display.nvcontainer\nvdisplay.container.exe" hash="392E98697C9A4E9E0E41307FA40F730043E13E85A5380DD6805C63F39FD2675D" timestamp="1719327231" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamig.inf_amd64_42677516ffe435f5\nvngx_update.exe" hash="49674687E38D7CC73F60995B5C16990350A78A4E617F0543442CE97C20557F9D" timestamp="1719327235" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\python\python312\python.exe" hash="FD5C46D73D29BA21B04C844BBAF9096066136526911230645A2A040D23FB612B" timestamp="1719643553" is_enabled="true"/>
+		<item path="C:\users\arghya\desktop\tor browser\browser\torbrowser\tor\tor.exe" hash="66FD723D0DD219807C6D7DCC331E25C8D05ADCCF4A66312928FBE1D0E45670ED" timestamp="1719652732" is_enabled="true"/>
+		<item path="C:\users\arghya\desktop\tor browser\browser\torbrowser\tor\pluggabletransports\lyrebird.exe" hash="4B5B600458AB5E314F8A1248E8937AE050962A1442457555951786658D6A30F9" timestamp="1719652774" is_enabled="true"/>
+		<item path="C:\windows\system32\wbem\wmiprvse.exe" hash="A926DFD215FB50B506C283B5A2277569BF5F653B16364633BEC6617366C3358C" timestamp="1719735417" is_silent="true"/>
+		<item path="C:\program files\windowsapps\advancedmicrodevicesinc-2.amdradeonsoftware_10.21.30016.0_x64__0a9344xs7nr4m\radeonsoftware\radeonsoftware.exe" hash="C472AFFA51E45260D8736923B0D3D27FE2989A3C75518020ADDD4A5154BC52A2" timestamp="1719751699" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\ueli\ueli.exe" hash="C7B4FE7C4A4805328CEE17359CB73E30714893B7A6C44EFDCB546232EF6CC0C6" timestamp="1719934746" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.23.1791.0_x64__8wekyb3d8bbwe\winget.exe" hash="64E421104B463F5A95E7F99ED1A018A50FEB4465C7E99486145B284034C665D8" timestamp="1720020374" is_enabled="true"/>
+		<item path="C:\windows\system32\dllhost.exe" hash="50C9C2EDEA6C51F1AAD2DD80A59F4EDB32637F51714F8472D216E5B9BDACDABF" timestamp="1720023200" is_silent="true"/>
+		<item path="C:\users\arghya\downloads\winpilot\winpilot.exe" hash="F0842BD0A5D8EA545EDD8F8EBAF193E478DA372AA3674DB13F818324F401853E" timestamp="1720030203" is_silent="true" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\bloatynosyapp\bloatynosy.exe" hash="045D6319E6122AC4486F03EA76ED2A4212E8121F9D2CB5104AB1A8CB9C683D90" timestamp="1720062436" is_silent="true"/>
+		<item path="C:\users\arghya\downloads\officesetup.exe" hash="062E077456F6C343623DB4D71EF531118A7FBE0E3470A5A261B29C1D29CD1D3B" timestamp="1720063119" is_enabled="true"/>
+		<item path="D:\office\setup32.exe" hash="C27001F5C8BDD2AF54E1F4E61C05CAE7C7E9DBF9E1A494BD5B4D0C4A39DC5364" timestamp="1720063523" is_silent="true"/>
+		<item path="C:\program files (x86)\microsoft office\root\vfs\programfilescommonx86\microsoft shared\office16\olicenseheartbeat.exe" hash="F8E906C604A410FAB3F085446727DB8BCB568E21AE168671C813B307FE8B55A7" timestamp="1720063595" is_silent="true"/>
+		<item path="C:\program files\bravesoftware\brave-browser\application\brave.exe" hash="777C24A7C00B94A3FD9D198DB078DEA22C8ED5F59655BE697C1502C887AFD073" timestamp="1720063802" is_enabled="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\asussci2.inf_amd64_ad7e5f4b857611df\asussoftwaremanager\asussoftwaremanager.exe" hash="D8A37050B79F4A595DE0599B1511F184FA4CE585F70B62CFDEA23AFEB985E6DF" timestamp="1720074180" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\asussci2.inf_amd64_ad7e5f4b857611df\asussoftwaremanager\asussoftwaremanageragent.exe" hash="97CDADDEDFFE5AB9E2DD6AFDF99FA1C291704E60B5131A8328B3896079DBFFFC" timestamp="1720074300" is_silent="true"/>
+		<item path="C:\windows\syswow64\windowspowershell\v1.0\powershell.exe" hash="6A73F3DDA06163BB6253E4F82A283E184D70755C067633C4190FBFF64F0BAECD" timestamp="1720075055" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.23.1791.0_x64__8wekyb3d8bbwe\windowspackagemanagerserver.exe" hash="87C132B50D884E44245D4E7120EEABDB13D2A7EBF707327ED3ECF8EC0FDFEE95" timestamp="1720117176" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\winget\packages\spicetify.spicetify_microsoft.winget.source_8wekyb3d8bbwe\spicetify.exe" hash="54C7D64C5CBFEFA096C966C8F138AAC55F7C71236311EC677342216F9C6330A1" timestamp="1720117543" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\softdeluxe\free download manager\fdm.exe" hash="0C1F32060B2C43FB46912E033E9D65DB7D328549CBC8780A661CAE57C0388352" timestamp="1720236144" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\obsidian\obsidian.exe" hash="C72CA9590BEEB6FC6E9741B34F7FA8AABDD64B7701D59887BCF0D114563655EE" timestamp="1720353026" is_enabled="true"/>
+		<item path="C:\program files\git\mingw64\bin\git-credential-manager.exe" hash="36C2DF65EDCD91381D0E35668CCD43C21583DF780621B23B98DB5012A7D740AB" timestamp="1720353227" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\winget\packages\syncthing.syncthing_microsoft.winget.source_8wekyb3d8bbwe\syncthing-windows-amd64-v1.27.9\syncthing.exe" hash="C960C1953012513B575622FF456DDEDA27EF62555E3B72D5B66A6CD493ACCBFB" timestamp="1720705690" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\2hbv2b5nggokzayjnv72ajhsou7\z-library.exe" hash="3ACB90B5FC72DBC6276781E87DC37B2388FB9603BF02D570D8E05AAAB0926A77" timestamp="1720787471" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\11157tiendonam.localsend_1.14.0.0_x64__g71aj367vb7ze\localsend_app.exe" hash="8F572D721E5FC5EE9EC4A73C1B740A993EF3F51BF54B7BF8ACE5652528919FFB" timestamp="1720959040" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.23.1911.0_x64__8wekyb3d8bbwe\winget.exe" hash="0BD30F15E44BDB880C16F326A020728BE7F5B5B0046647C3F17834B248B409E4" timestamp="1721031343" is_enabled="true"/>
+		<item path="C:\windows\system32\dashost.exe" hash="8D704339678C7D9831EA2A09BA8211AB759B2F028D75FC0B75834FFF11222A31" timestamp="1721031984" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\microsoft vs code\code.exe" hash="84C59A287A9CA9DF1776C6EFAD25F749D48C957F0DC1931E7080D0760285721A" timestamp="1721064325" is_enabled="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24060.7-0\mpdefendercoreservice.exe" hash="1F2FC67C57E3E0DC0A65EA2BCA5A431F819265971E643537F418ED2C1AD4EECC" timestamp="1721136833" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvami.inf_amd64_228c2297d67d3a38\display.nvcontainer\nvdisplay.container.exe" hash="27951CB47BB64327365B228E850F600D509D1D832E465F5BD28E08682AC43051" timestamp="1721224712" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvami.inf_amd64_228c2297d67d3a38\nvngx_update.exe" hash="E75DDAA506B4597DC2E630BB62D90C7260B02E5BC6B65C05EF2E8A11B546FD04" timestamp="1721224715" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\bleachbit\bleachbit.exe" hash="E3B7D890DE04090D458725C332DD2FD381B3B031B0CDC14C352167F0DE2E4B8B" timestamp="1721234549" is_silent="true"/>
+		<item path="C:\program files\windowsapps\microsoft.desktopappinstaller_1.23.1911.0_x64__8wekyb3d8bbwe\windowspackagemanagerserver.exe" hash="949155CDB03FE2E536B8E9D7D6F90F3BC45BBB68AA8CA5D32C60505EF7923D79" timestamp="1721237877" is_silent="true"/>
+		<item path="C:\users\arghya\downloads\reshade_setup_6.1.1.exe" hash="F427F2D354ACD78F2177AAEB78A677D34D7825751DC3ABE70D40FD537B70C4D8" timestamp="1721238207" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\reshade_setup_4.6.1.exe" hash="75F6E952C2EA89139A6F30F9702CAA283BC2DBBBA0B1EE9C5A9402318569AB42" timestamp="1721238696" is_enabled="true"/>
+		<item path="E:\king games\mafia - definitive edition\mafiadefinitiveedition.exe" hash="F063BF8CE27CEE297ABB6C374F383A922CF772F6984797FEE9B4456986516ABF" timestamp="1721239365" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\winget\packages\iridiumio.compactgui_microsoft.winget.source_8wekyb3d8bbwe\compactgui.exe" hash="4391E088BA4C99FB24908DB5A9C2A5EDB31582AFC771666015715C9D7A67AE17" timestamp="1721271373" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\files.stable.exe" hash="D5E1DC33779491E8384A91AD4BF84FACA8174C4B51481DA71FC36BF101D61A10" timestamp="1721288581" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\files_3.5.0.0_x64__1y0xx7n9077q4\files.app\files.exe" hash="3819EA8AC9626EF95476ED6B7763342C7C52BB50FCA3F30A490548F4F84BF7C8" timestamp="1721304444" is_enabled="true"/>
+		<item path="C:\users\arghya\downloads\compressed\vmware workstation pro 16.2.4 build 20089737 (x64) [filecr]\vmware workstation pro 16.2.4 build 20089737 (x64)\vmware-workstation-full-16.2.4-20089737.exe" hash="758F7211D631B2B5B52DF7214485FE2082661E5BA18054C8D91BE0D7E27DBB2F" timestamp="1721310158" is_silent="true"/>
+		<item path="C:\windows\system32\msiexec.exe" hash="5872FE75E96A1C653972421C5874E19EA6181A08BED623C269FD3576C2BB707E" timestamp="1721310215" is_silent="true"/>
+		<item path="C:\program files (x86)\vmware\vmware workstation\vmware.exe" hash="39931F681DE60EADF21DE8F2CDCACEE8A4AC650EBB235CA4366AB6FE378A3E97" timestamp="1721310471" is_silent="true"/>
+		<item path="C:\windows\syswow64\vmnat.exe" hash="F7A32F303EB5ED5089CFABA15EE79E2F28C4E76C883849F67881ADFEECC8C8FF" timestamp="1721310542" is_enabled="true"/>
+		<item path="C:\windows\system32\compattelrunner.exe" hash="074EE5128B62C9FAE070B5666201DB6505EFB0067146F8AE1AE7AA0BB9FF8E73" timestamp="1721324291" is_silent="true"/>
+		<item path="C:\windows\uus\amd64\waasmedicagent.exe" hash="8FFB3157E56E592A39AE00069773375D81956A67151C46A8C6F8AB11B81F4CEA" timestamp="1721369206" is_silent="true"/>
+		<item path="C:\program files\komorebi\bin\komorebic.exe" hash="32B82EBA1DF21B2AFEFC49610572B0B138567A361266B03884D9D2FA18993F73" timestamp="1721379272" is_enabled="true"/>
+		<item path="C:\windows\system32\wsl.exe" hash="F481514C730FB077DC3E01ACB7E9EB8374276A482046873632FAD3B0877A57AB" timestamp="1721462256" is_enabled="true"/>
+		<item path="C:\program files\wsl\wsl.exe" hash="233D6321A90280C888F475EBD5833160E3251A3FCAF2330CD15E7778A6DACFF3" timestamp="1721462412" is_enabled="true"/>
+		<item path="C:\program files\wsl\wslservice.exe" hash="38BBE49279615D216223276665729B120EB9EF8D7D256C1CB52C9EB29BDBA49C" timestamp="1721462413" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\microsoft.windowsterminal_1.20.11781.0_x64__8wekyb3d8bbwe\windowsterminal.exe" hash="83F2A02EEF08DA0A1D2A9A4FF5D840FB3D49764B46E87477BC935B4923E23DB9" timestamp="1721477319" is_enabled="true"/>
+		<item path="C:\users\arghya\scoop\apps\rufus\4.5\rufus.exe" hash="C6E6CDBA209F899E5087F1A1A4BABC759414B4A687B60BA4BCE62B6B37E8E82B" timestamp="1721477484" is_enabled="true"/>
+		<item path="C:\program files\windowsapps\advancedmicrodevicesinc-2.amdradeonsoftware_10.22.20073.0_x64__0a9344xs7nr4m\radeonsoftware\radeonsoftware.exe" hash="543637AC918C3C46D683DE22C363CBF0E8A9BF0350AD44B2C2FE35A375E6887F" timestamp="1721932482" is_silent="true"/>
+		<item path="C:\program files\file converter\fileconverter.exe" hash="97DD44D3A3284E777A784527E3F874D7138D2D5DBFD8A2983490D0ABA133EEF3" timestamp="1721932659" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\microsoft vs code\resources\app\node_modules.asar.unpacked\@vscode\vsce-sign\bin\vsce-sign.exe" hash="77B4D5BCADB7481C7E269CC9EAADF4BDEC432B560959F57078EAFC2BC881D5D9" timestamp="1721933136" is_silent="true"/>
+		<item path="C:\program files\malwarebytes\anti-malware\mbamservice.exe" hash="C264DD072A5C7954667804611BCC8A0708125ED907B1CF2F8F86434DF1A125DD" timestamp="1721966587" is_silent="true"/>
+		<item path="C:\program files\malwarebytes\anti-malware\mbamtray.exe" hash="4B89392FAD1F160E020D5542CC4632E7577C074FC663FA7273D4C9EF36380A7F" timestamp="1721966590" is_silent="true"/>
+		<item path="C:\program files\malwarebytes\anti-malware\mbam.exe" hash="13C1F1E82209FB53FE6F6634E4C1BE5CC1934264CE98319A57F8D65EA9B9496C" timestamp="1721966626" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\special k\skif.exe" hash="D742B3845D2A9915D63F4852AF478FF078131C829054C4467DFC958C9D3964CA" timestamp="1722071638" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\11a0c3b2-f816-4b79-92b9-3e0109ee4e78.tmp.exe" hash="134AE1D0C90A068CB4CA7D422D1097A007F72E3A26E4BA67B8516902753663B7" timestamp="1722098059" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\se0lhb4v.pky\dashboardinstaller.exe" hash="D7EA2B2E6F62B8E5FE17E49299837BBAF30CE4CAB88A2700A0E94BD5013D39A1" timestamp="1722098373" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\45ebxp5d.5d3\dashboardinstaller.exe" hash="D7EA2B2E6F62B8E5FE17E49299837BBAF30CE4CAB88A2700A0E94BD5013D39A1" timestamp="1722098394" is_enabled="true"/>
+		<item path="C:\program files (x86)\western digital\ssd dashboard\dashboard.exe" hash="1B908ECC3093A5BBFF3AB7693B268732CF9645E73E13612D0EBB04153121FD8D" timestamp="1722099971" is_silent="true"/>
+		<item path="C:\program files (x86)\western digital\ssd dashboard\qtwebengineprocess.exe" hash="5D40BA51697FE558AB69D0C63C49987F4CF15AB3FD8F1B5812255CBFF94294F5" timestamp="1722100247" is_silent="true"/>
+		<item path="E:\king games\what remains of edith finch\finchgame\binaries\win64\finchgame-win64-shipping.exe" hash="A0E7EA33ABCFB96CE168592F0F54D949FEA20C1815862B3A800B1965622EE8B4" timestamp="1722139223" is_silent="true"/>
+		<item path="E:\king games\alan wake 2\alanwake2.exe" hash="1CF57672541091CD0F38EC751E6D8E3267B3DA86DDDF43F2DF4AC95FE1384DE0" timestamp="1722148462" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\nvidia\gfe\setup.exe" hash="76FE28CB93BA6B84B4C9342CB91FA9E2BCCB0A05A1B01CB1189DEB5C5A6F990A" timestamp="1722161551" is_enabled="true"/>
+		<item path="C:\program files\nvidia corporation\nvcontainer\nvcontainer.exe" hash="CA7BC48D408D72FA6FFB1F7F0E337A41C0FA21BE4C53408108CB27FD73C722EA" timestamp="1722161562" is_silent="true"/>
+		<item path="C:\program files\nvidia corporation\nvidia geforce experience\nvidia geforce experience.exe" hash="A49B38DF64F5FBCDDCBC97688C3F805742850BE1269D3AD381B496CC5A226CB9" timestamp="1722161566" is_enabled="true"/>
+		<item path="C:\windows\syswow64\rundll32.exe" hash="135FED9E9178F4545A26EBC8AD6D8639B366F2D1BA2964FD3B8198819CC4BDC1" timestamp="1722161887" is_silent="true"/>
+		<item path="C:\nvidia\nvapp2\setup.exe" hash="92E3B371C8C4728371B4E7875D49F1B42959988D0D30A5AB829BC037AF754899" timestamp="1722161977" is_silent="true"/>
+		<item path="C:\program files\nvidia corporation\nvidia app\cef\nvidia app.exe" hash="7363ABDA28FE8C610A72065A8D766F4415FEE2A27ED336A32AE3F20C2F303B9B" timestamp="1722161985" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamsi.inf_amd64_8dd970de8f9735d4\nvngx_update.exe" hash="E75DDAA506B4597DC2E630BB62D90C7260B02E5BC6B65C05EF2E8A11B546FD04" timestamp="1722164562" is_silent="true"/>
+		<item path="C:\windows\system32\driverstore\filerepository\nvamsi.inf_amd64_8dd970de8f9735d4\display.nvcontainer\nvdisplay.container.exe" hash="27951CB47BB64327365B228E850F600D509D1D832E465F5BD28E08682AC43051" timestamp="1722164875" is_silent="true"/>
+		<item path="C:\program files\mem reduct\memreduct.exe" hash="31689824DD984BD9C0F07C20F05BC253F6D107581AEC4609044FDDCDD50F655D" timestamp="1722184638" is_silent="true"/>
+		<item path="C:\program files\java\jdk-22\bin\java.exe" hash="EA2256431812383AFAE8AB0A078C398B29B2BEC621D38E1E3E159364F8C17251" timestamp="1722269001" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\is-km7s4.tmp\setup.tmp" timestamp="1722271318" is_enabled="true"/>
+		<item path="E:\king games\cyberpunk 2077\bin\x64\cyberpunk2077.exe" hash="C9D1C5A929325935C94086E7372FFABBAFFD129CF7B90752BC4606BA27F77FD9" timestamp="1722318985" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\temp\winget\microsoft.onedrive.24.126.0623.0001\onedrivesetup.exe" timestamp="1722498570" is_enabled="true"/>
+		<item path="C:\Users\arghya\AppData\Local\Microsoft\OneDrive\OneDrive.exe" hash="E4EFF86A543E63621D7419ED2D46C90D8803F5D606CA4C904BA0B9107F86430D" timestamp="1722498952" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\24.126.0623.0001\microsoft.sharepoint.exe" hash="962E1726CEE746A63ED5025770AFA069E0FB22CAB637BC49C45B5BD4F5C18860" timestamp="1722500215" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\onedrivestandaloneupdater.exe" hash="801625719F9A14C612C0EDE51149F4D5651E3D5B14EFAD1F460E1431D32F35BC" timestamp="1722502178" is_silent="true"/>
+		<item path="C:\program files\jamescj60\universal x86 tuning utility\universal x86 tuning utility.exe" hash="12639F88CC8DFFEA7EE8A8CF8A4B910C689C3D24A81E39E1B386FEA5A398258C" timestamp="1722567249" is_silent="true"/>
+		<item path="C:\users\arghya\scoop\apps\gpu-z\2.59.0\gpu-z.exe" hash="E2521082260F498233A3777A4FB76CE8092348ADA21DBB8674210348D396E7DF" timestamp="1722568212" is_silent="true"/>
+		<item path="C:\program files (x86)\unigine\heaven benchmark 4.0\bin\browser_x86.exe" hash="73CE09A68EC0ECCCA3377DF3DED408E9FF26870E2CFAF51BE72A9D41D3E796CF" timestamp="1722572766" is_silent="true"/>
+		<item path="C:\users\arghya\scoop\apps\hwmonitor\1.54\hwmonitor_x64.exe" hash="66BBF93ADD17C22B97B207030CCA4A372082B9FC6BBAE66A709E2AE9F28EAA33" timestamp="1722573709" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\standaloneupdater\onedrivesetup.exe" hash="1FD4F3D688E292C3F014F611CA98EE8B7F25EDE59527AAB7622F66299676BB69" timestamp="1722591085" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\24.132.0701.0002\microsoft.sharepoint.exe" hash="F588A75D98D71E398F818D4ECF85DAB616A1CBBCC8C066E76371C6152516B43A" timestamp="1722591091" is_enabled="true"/>
+		<item path="C:\users\arghya\onedrive - vitbhopal.ac.in\desktop\uad\uad-ng-windows.exe" hash="852FB95E3B729CD74EAF6A4C935A3E19D0714879BFC17FA73B048241313EEAEB" timestamp="1722607455" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\24.141.0714.0003\microsoft.sharepoint.exe" hash="34F7F982A87782B1218AB12BA11CA782A07204A67B883896599BED1B778B5D0A" timestamp="1722693603" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\programs\quicklook\quicklook.exe" hash="304872649952948F71BE2864DB93A2695CE5BD791DD522A52414BAF0B8305E86" timestamp="1722704724" is_silent="true"/>
+		<item path="E:\king games\game setup\system\ghelper.exe" hash="0AE093FCF5D90FE8368F01E5669EE7359A42F5B34F36E37E851C4C18E9BF5C69" timestamp="1722705916" is_enabled="true"/>
+		<item path="C:\users\arghya\appdata\local\microsoft\onedrive\24.141.0714.0003\onedrivesetup.exe" hash="1FD4F3D688E292C3F014F611CA98EE8B7F25EDE59527AAB7622F66299676BB69" timestamp="1722867426" is_silent="true"/>
+		<item path="C:\users\arghya\appdata\roaming\telegram desktop\telegram.exe" hash="2E2C35DD1999FF405FE292A933FB29A147D9E00A008852BBE209002F908E1567" timestamp="1722879795" is_enabled="true"/>
+		<item path="C:\program files (x86)\microsoft\edgewebview\application\126.0.2592.81\msedgewebview2.exe" hash="8B120C6CB1E65234389A93C8C5BC8D420323A1CF8A789D0A8B56F64C48E60DCA" timestamp="1722963738" is_silent="true"/>
+		<item path="C:\program files\windowsapps\thebrowsercompany.arc_1.5.0.31351_x64__ttt1ap7aakyb4\arc.exe" hash="E97411DB84B7EAC2740CC41399728BA60AAF2D51467662133480E00DA765081B" timestamp="1723037361" is_enabled="true"/>
+		<item path="C:\programdata\microsoft\windows defender\platform\4.18.24070.5-0\mpdefendercoreservice.exe" hash="B341D1EBB1413D5985E4B2E87BDBA4A4AAE7C1FFF85EC2CCB6EA948F40FFFA9D" timestamp="1723093034" is_silent="true"/>
+	</apps>
+	<rules_custom>
+	</rules_custom>
+	<rules_config>
+	</rules_config>
+</root>

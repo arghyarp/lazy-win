@@ -61,17 +61,23 @@ Return
 !l::
 SendInput, #{Right}
 Return
+;applications
+!b::
+Run, "C:\Program Files\Mozilla Firefox\firefox.exe"
+Return
+!t::
+Run, "wt.exe"
+Return
+!e::
+SendInput, #e
+Return
 ; End --> Ctrl+;
 ^;::
 SendInput, {End}
 Return
 ; quit(alt f4) shortcut
-!+q::
+!q::
 SendInput, !{F4}
-Return
-; maxmize firefox window on startup
-^!f::
-Run, C:\Program Files\Mozilla Firefox\firefox.exe
 Return
 ; ueli restart
 ^!U::
@@ -81,16 +87,26 @@ return
 ; brightness slider
 ^!`::
     Run nircmd changebrightness -5
-    Tooltip, Brightness <---
-    SetTimer,RemoveTooltip,1000
+    Tooltip, Light <--
+    SetTimer, RemoveTooltip, 1000
 Return
 ^!1::
     Run nircmd changebrightness +5
-    ToolTip, Brightness --->
-    SetTimer,RemoveTooltip,1000
+    Tooltip, Light -->
+    SetTimer, RemoveTooltip, 1000
+Return
+^`::
+    Run nircmd changesysvolume -3500
+    Tooltip, Volume <--
+    SetTimer, RemoveTooltip, 1000
+Return
+^1::
+    Run nircmd changesysvolume 3500
+    ToolTip, Volume -->
+    SetTimer, RemoveTooltip, 1000
 Return
 RemoveTooltip:
-    SetTimer, RemoveTooltip,Off
+    SetTimer, RemoveTooltip, Off
     Tooltip
 Return
 ;send hyphen

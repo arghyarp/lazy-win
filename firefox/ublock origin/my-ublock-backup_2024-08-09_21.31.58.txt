@@ -1,0 +1,36 @@
+{
+  "timeStamp": 1723219318691,
+  "version": "1.59.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "uiAccentCustom": true,
+    "uiAccentCustom0": "#46817a",
+    "externalLists": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt"
+    ],
+    "largeMediaSize": 512,
+    "popupPanelSections": 31,
+    "tooltipsDisabled": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "adguard-spyware-url",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "chrome-extension-scheme",
+    "moz-extension-scheme",
+    "nextdns.io"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\nlibreddit.kavin.rocks * 3p block\nwww.google.com * 3p block\nwww.google.com id.google.com * block\nmedium.com * 3p block\nwww.youtube.com * 3p-frame block\nwww.youtube.com doubleclick.net * block\nwww.reddit.com ad-delivery.net * block\nwww.reddit.com google.com * block\nwww.reddit.com www.gstatic.com * block\nwww.reddit.com * 3p-frame block\nwww.youtube.com ggpht.com * block",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-remote-fonts: * true\nno-large-media: * true\nno-csp-reports: * true\nno-remote-fonts: old.reddit.com true\nno-strict-blocking: www.magiskmodule.com true\nno-scripting: libreddit.kavin.rocks true\nno-remote-fonts: medium.com true\nno-scripting: medium.com true\nno-large-media: gruvbox-wallpapers.pages.dev false\nno-large-media: github.com false\nno-remote-fonts: myaccount.google.com false\nno-scripting: www.creepypasta.com true\nno-large-media: www.google.com false",
+  "userFilters": "! Jul 4, 2024 https://www.reddit.com\n||accounts.google.com/gsi/iframe/select?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&as=bjo8fJ5%2Fiu4kjtt61peu1Q&is_itp=true&channel_id=c032302360b82021b7cecd4b719e0bacf81204ca73ef495796f8a9668083c504&origin=https%3A%2F%2Fwww.reddit.com$subdocument\n\n! Jul 6, 2024 https://gadgetguideonline.com\ngadgetguideonline.com##section > kbd > div\ngadgetguideonline.com##body > div kbd\ngadgetguideonline.com##div > kbd\n\n\n! Jul 10, 2024 https://searx.be\nsearx.be###categories_container\n\n! Jul 12, 2024 https://old.reddit.com\nold.reddit.com##.premium-banner\nold.reddit.com##.listingsignupbar.infobar\n\n! Jul 17, 2024 https://www.google.com\nwww.google.com##.gb_b\nwww.google.com##.gb_d\nwww.google.com##.c58wS\nwww.google.com##.sfbg\nwww.google.com##.Q3DXx.NDnoQ\nwww.google.com##.dodTBe\n\n! Jul 30, 2024 https://www.imdb.com\nwww.imdb.com##.inline20-page-background.ipc-page-background--baseAlt.ipc-page-background > .ipc-page-content-container--center.ipc-page-content-container > .nas-slot > .nas-dark.nas-spacing.slot_wrapper\n\n! Aug 5, 2024 https://www.youtube.com\nwww.youtube.com###masthead-ad\nwww.youtube.com###chips-wrapper > .ytd-feed-filter-chip-bar-renderer.style-scope\nwww.youtube.com###header > .ytd-rich-grid-renderer.style-scope"
+}
