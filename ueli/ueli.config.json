@@ -55,16 +55,16 @@
   },
   "colorThemeOptions": {
     "name": "Atom One Dark",
-    "userInputBackgroundColor": "#21272b",
-    "userInputTextColor": "#bbc4bd",
-    "searchResultsBackgroundColor": "#21272b",
-    "searchResultsItemActiveBackgroundColor": "#434e56",
-    "searchResultsItemActiveDescriptionColor": "#d9deda",
-    "searchResultsItemActiveTextColor": "#d9deda",
+    "userInputBackgroundColor": "#161a1d",
+    "userInputTextColor": "#c8d0ca",
+    "searchResultsBackgroundColor": "#161a1d",
+    "searchResultsItemActiveBackgroundColor": "#374149",
+    "searchResultsItemActiveDescriptionColor": "#c8d0ca",
+    "searchResultsItemActiveTextColor": "#c8d0ca",
     "searchResultsItemDescriptionTextColor": "#9da9a0",
     "searchResultsItemNameTextcolor": "#9da9a0",
-    "scrollbarBackgroundColor": "#272e33",
-    "scrollbarForegroundColor": "#272e33"
+    "scrollbarBackgroundColor": "#161a1d",
+    "scrollbarForegroundColor": "#161a1d"
   },
   "commandlineOptions": {
     "isEnabled": true,
